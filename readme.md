@@ -32,4 +32,4 @@
 ```bash
 git clone https://github.com/yourusername/ai-question-generator.git
 cd ai-question-generator
-pip install transformers torch datasets openai python-dotenv gradio sentencepiece
+pip install transformers torch datasets openai python-dotenv gradio sentencepiece datasets

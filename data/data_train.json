@@ -1,0 +1,1122 @@
+[
+  {
+    "Context": "หนูบ้านได้รับบัตรเชิญจากญาติที่ต่างจังหวัดและตัดสินใจเดินทางไปเยี่ยม ระหว่างทางมันได้พบกับความเงียบสงบและธรรมชาติที่สวยงาม แต่เมื่อถึงที่หมาย หนูบ้านกลับพบว่าบ้านของหนูนามีเพียงโพรงเล็กๆ และไม่มีอะไรตกแต่ง หนูบ้านจึงชวนหนูนาออกไปกินข้างนอก",
+    "target": {
+      "question": "หนูบ้านได้รับบัตรเชิญจากใคร?",
+      "answer": "ญาติที่ต่างจังหวัด"
+    }
+  },
+  {
+    "Context": "หนูนาพาหนูบ้านไปที่ห้องเก็บของและนำอาหารกลางวันออกมา หนูบ้านพบว่าอาหารเป็นเพียงเมล็ดพืชธรรมดา แต่หนูนายังคงเสนอเมล็ดดอกทานตะวันให้หนูบ้านเพิ่มเติม",
+    "target": {
+      "question": "หนูนาเสนออะไรให้หนูบ้านเพิ่มเติม?",
+      "answer": "เมล็ดดอกทานตะวัน"
+    }
+  },
+  {
+    "Context": "หนูบ้านชวนหนูนาไปที่บ้านของมันในเมือง ทั้งสองเดินทางโดยรถไฟและเมื่อถึงเมือง หนูนาตื่นตะลึงกับความวุ่นวายและอาหารมากมายที่บ้านของหนูบ้าน",
+    "target": {
+      "question": "หนูบ้านชวนหนูนาไปที่ไหน?",
+      "answer": "บ้านของมันในเมือง"
+    }
+  },
+  {
+    "Context": "หลังจากที่ได้ลิ้มลองอาหารมากมาย หนูนาตัดสินใจว่าต้องการกลับไปที่บ้านในชนบทของมันเพื่อความสงบ แม้จะมีอาหารน้อยกว่า แต่หนูนารู้สึกว่าชีวิตที่นั่นปลอดภัยและสงบกว่า",
+    "target": {
+      "question": "หนูนาตัดสินใจอย่างไรหลังจากได้ลิ้มลองอาหารมากมาย?",
+      "answer": "ต้องการกลับไปที่บ้านในชนบทของมัน"
+    }
+  },
+  {
+    "Context": "ณ ห้องสมุดเล็กๆ กลางสวนดอกไม้งามบนเนินเขา มีคุณยายใจดีเป็นบรรณารักษ์ คืนหนึ่งหนังสือนิทานเล่มน้อยกระโดดลงมาและประกาศว่าห้องสมุดอาจจะต้องปิด เด็กๆ และชาวบ้านร่วมกันประชุมและตัดสินใจสร้างห้องสมุดบินได้เพื่อให้คุณยายไม่ต้องเดินทางมาห้องสมุด",
+    "target": {
+      "question": "ทำไมหนังสือนิทานเล่มน้อยถึงประกาศว่าห้องสมุดอาจจะต้องปิด?",
+      "answer": "เพราะคุณยายอายุมากและสุขภาพไม่ค่อยดี ไม่มีใครดูแลต่อได้"
+    }
+  },
+  {
+    "Context": "หลังจากที่หนังสือนิทานเล่มน้อยประกาศว่าห้องสมุดอาจจะต้องปิด ชาวบ้านและเด็กๆ ตัดสินใจสร้างห้องสมุดบินได้เพื่อให้คุณยายไม่ต้องเดินทางมาห้องสมุด",
+    "target": {
+      "question": "ชาวบ้านและเด็กๆ ตัดสินใจทำอะไรหลังจากทราบข่าวว่าห้องสมุดอาจจะต้องปิด?",
+      "answer": "ตัดสินใจสร้างห้องสมุดบินได้"
+    }
+  },
+  {
+    "Context": "ห้องสมุดบินได้ถูกสร้างขึ้นเพื่อให้คุณยายไม่ต้องเดินทางมาห้องสมุด ชาวบ้านและเด็กๆ ร่วมมือกันสร้างห้องสมุดบินได้",
+    "target": {
+      "question": "ห้องสมุดบินได้ถูกสร้างขึ้นเพื่ออะไร?",
+      "answer": "เพื่อให้คุณยายไม่ต้องเดินทางมาห้องสมุด"
+    }
+  },
+  {
+    "Context": "ห้องสมุดบินได้ถูกสร้างขึ้นโดยชาวบ้านและเด็กๆ ร่วมมือกัน ห้องสมุดบินได้ช่วยให้คุณยายไม่ต้องเดินทางมาห้องสมุด",
+    "target": {
+      "question": "ใครเป็นผู้ร่วมมือกันสร้างห้องสมุดบินได้?",
+      "answer": "ชาวบ้านและเด็กๆ"
+    }
+  },
+  {
+    "Context": "In a bustling city, there is a mischievous overpass that enjoys playing tricks on people crossing it. It stretches to make the stairs longer for young men, shrinks to make the path narrower for children, retains rainwater, and turns off lights to scare young women at night. Despite its antics, a stray dog named Dang continues to cross the overpass to reach a market on the other side. Dang marks his territory on the overpass, which annoys it, but Dang always manages to overcome the overpass's tricks. Eventually, the overpass and Dang start a friendship, leading the overpass to treat all crossers kindly, adapting its structure to their needs.",
+    "target": {
+      "question": "Why does the overpass initially play tricks on people trying to cross it?",
+      "answer": "The overpass enjoys playing tricks on people crossing it as part of its mischievous nature."
+    }
+  },
+  {
+    "Context": "In a bustling city, there is a mischievous overpass that enjoys playing tricks on people crossing it. It stretches to make the stairs longer for young men, shrinks to make the path narrower for children, retains rainwater, and turns off lights to scare young women at night. Despite its antics, a stray dog named Dang continues to cross the overpass to reach a market on the other side. Dang marks his territory on the overpass, which annoys it, but Dang always manages to overcome the overpass's tricks. Eventually, the overpass and Dang start a friendship, leading the overpass to treat all crossers kindly, adapting its structure to their needs.",
+    "target": {
+      "question": "How does Dang manage to consistently overcome the overpass's tricks?",
+      "answer": "Dang always finds a way to climb up when the overpass stretches, crawl through when it shrinks, swim across when it retains rainwater, and is not scared when the lights are turned off."
+    }
+  },
+  {
+    "Context": "In a bustling city, there is a mischievous overpass that enjoys playing tricks on people crossing it. It stretches to make the stairs longer for young men, shrinks to make the path narrower for children, retains rainwater, and turns off lights to scare young women at night. Despite its antics, a stray dog named Dang continues to cross the overpass to reach a market on the other side. Dang marks his territory on the overpass, which annoys it, but Dang always manages to overcome the overpass's tricks. Eventually, the overpass and Dang start a friendship, leading the overpass to treat all crossers kindly, adapting its structure to their needs.",
+    "target": {
+      "question": "What changes in the overpass's behavior after befriending Dang?",
+      "answer": "After befriending Dang, the overpass starts treating all crossers kindly, adapting its structure to their needs, such as providing a shelter from rain, playing music, and transforming stairs for easier access for the elderly and fun slides for children."
+    }
+  },
+  {
+    "Context": "In a bustling city, there is a mischievous overpass that enjoys playing tricks on people crossing it. It stretches to make the stairs longer for young men, shrinks to make the path narrower for children, retains rainwater, and turns off lights to scare young women at night. Despite its antics, a stray dog named Dang continues to cross the overpass to reach a market on the other side. Dang marks his territory on the overpass, which annoys it, but Dang always manages to overcome the overpass's tricks. Eventually, the overpass and Dang start a friendship, leading the overpass to treat all crossers kindly, adapting its structure to their needs.",
+    "target": {
+      "question": "What is the reason for Dang's persistent efforts to cross the overpass?",
+      "answer": "Dang persists in crossing the overpass to reach the market on the other side of the road."
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องกระต่ายกับเต่า กระต่ายล้อเลียนเต่าว่าเดินช้า แต่เต่าตอบว่าจะไปถึงที่ที่ต้องการได้ กระต่ายจึงท้าเต่าแข่งวิ่ง การแข่งขันเริ่มต้นที่ทุ่งดอกไม้ไปยังยุ้งข้าว ข่าวการแข่งขันแพร่กระจายไปอย่างรวดเร็ว สัตว์ต่างๆ มาชมการแข่งขัน กระต่ายวิ่งเร็วและหยุดพัก ในขณะที่เต่าคลานช้าๆ แต่มั่นคง",
+    "target": {
+      "question": "กระต่ายท้าเต่าแข่งวิ่งเพราะอะไร?",
+      "answer": "เพราะกระต่ายล้อเลียนเต่าว่าเดินช้าและเต่าตอบว่าจะไปถึงที่ที่ต้องการได้"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องกระต่ายกับเต่า กระต่ายล้อเลียนเต่าว่าเดินช้า แต่เต่าตอบว่าจะไปถึงที่ที่ต้องการได้ กระต่ายจึงท้าเต่าแข่งวิ่ง การแข่งขันเริ่มต้นที่ทุ่งดอกไม้ไปยังยุ้งข้าว ข่าวการแข่งขันแพร่กระจายไปอย่างรวดเร็ว สัตว์ต่างๆ มาชมการแข่งขัน กระต่ายวิ่งเร็วและหยุดพัก ในขณะที่เต่าคลานช้าๆ แต่มั่นคง",
+    "target": {
+      "question": "การแข่งขันเริ่มต้นที่ไหนและจบที่ไหน?",
+      "answer": "เริ่มต้นที่ทุ่งดอกไม้และจบที่ยุ้งข้าว"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องกระต่ายกับเต่า กระต่ายล้อเลียนเต่าว่าเดินช้า แต่เต่าตอบว่าจะไปถึงที่ที่ต้องการได้ กระต่ายจึงท้าเต่าแข่งวิ่ง การแข่งขันเริ่มต้นที่ทุ่งดอกไม้ไปยังยุ้งข้าว ข่าวการแข่งขันแพร่กระจายไปอย่างรวดเร็ว สัตว์ต่างๆ มาชมการแข่งขัน กระต่ายวิ่งเร็วและหยุดพัก ในขณะที่เต่าคลานช้าๆ แต่มั่นคง",
+    "target": {
+      "question": "กระต่ายทำอะไรขณะที่เต่าคลานช้าๆ?",
+      "answer": "กระต่ายวิ่งเร็วและหยุดพัก"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องกระต่ายกับเต่า กระต่ายล้อเลียนเต่าว่าเดินช้า แต่เต่าตอบว่าจะไปถึงที่ที่ต้องการได้ กระต่ายจึงท้าเต่าแข่งวิ่ง การแข่งขันเริ่มต้นที่ทุ่งดอกไม้ไปยังยุ้งข้าว ข่าวการแข่งขันแพร่กระจายไปอย่างรวดเร็ว สัตว์ต่างๆ มาชมการแข่งขัน กระต่ายวิ่งเร็วและหยุดพัก ในขณะที่เต่าคลานช้าๆ แต่มั่นคง",
+    "target": {
+      "question": "ข่าวการแข่งขันกระจายไปอย่างไร?",
+      "answer": "แพร่กระจายไปอย่างรวดเร็ว"
+    }
+  },
+  {
+    "Context": "ในนิทาน 'พระอาทิตย์กับลมเหนือ' ลมเหนือและพระอาทิตย์แข่งกันว่าใครจะทำให้ชายหนุ่มถอดเสื้อคลุมได้ ลมเหนือพยายามอย่างหนักด้วยการพัดแรง แต่ชายหนุ่มกลับยิ่งดึงเสื้อคลุมให้แน่นขึ้น สุดท้ายพระอาทิตย์ใช้ความอบอุ่นทำให้ชายหนุ่มถอดเสื้อคลุมออกเอง",
+    "target": {
+      "question": "ใครเป็นผู้ชนะในการแข่งขันระหว่างพระอาทิตย์กับลมเหนือ?",
+      "answer": "พระอาทิตย์"
+    }
+  },
+  {
+    "Context": "ในนิทาน 'พระอาทิตย์กับลมเหนือ' ลมเหนือพยายามทำให้ชายหนุ่มถอดเสื้อคลุมโดยการพัดแรง แต่ชายหนุ่มกลับยิ่งดึงเสื้อคลุมให้แน่นขึ้น และพันผ้าพันคออย่างแน่นหนา",
+    "target": {
+      "question": "ชายหนุ่มทำอะไรเมื่อลมเหนือพัดแรง?",
+      "answer": "ดึงเสื้อคลุมให้แน่นขึ้นและพันผ้าพันคออย่างแน่นหนา"
+    }
+  },
+  {
+    "Context": "ในนิทาน 'พระอาทิตย์กับลมเหนือ' พระอาทิตย์ใช้ความอบอุ่นทำให้ชายหนุ่มรู้สึกสบายและถอดเสื้อคลุมออกเอง ชายหนุ่มยังคลายผ้าพันคอและพับคอเสื้อลง",
+    "target": {
+      "question": "พระอาทิตย์ใช้วิธีใดในการช่วยให้ชายหนุ่มถอดเสื้อคลุม?",
+      "answer": "ใช้ความอบอุ่น"
+    }
+  },
+  {
+    "Context": "ในนิทาน 'พระอาทิตย์กับลมเหนือ' ลมเหนือแสดงความไม่พอใจหลังจากพระอาทิตย์ชนะการแข่งขัน โดยพูดว่า 'เชอะ! ก็แค่โชคดีตอนเริ่มต้นเท่านั้นแหละ!'",
+    "target": {
+      "question": "ลมเหนือแสดงความรู้สึกอย่างไรหลังจากพระอาทิตย์ชนะการแข่งขัน?",
+      "answer": "ไม่พอใจ"
+    }
+  },
+  {
+    "Context": "หมาป่าตัวหนึ่งถือกำเนิดในเทือกเขาสูงของเกาะครีต แม่ของมันฟูมฟักเลี้ยงดูจนมันสามารถปกป้องตัวเองได้ แล้วจึงปล่อยให้มันออกสู่โลกภายนอก เพื่อเข้าฝูงหมาป่าที่ล่าเหยื่อบนภูเขา",
+    "target": {
+      "question": "หมาป่าตัวหนึ่งถือกำเนิดที่ไหน?",
+      "answer": "เทือกเขาสูงของเกาะครีต"
+    }
+  },
+  {
+    "Context": "หมาป่าหนุ่มเข้าใกล้ค่ายพักแรมของนักเดินทางเพราะความหิวจัด แต่เมื่อถูกค้นพบก็ต้องหนีกลับเข้าสู่เงามืด",
+    "target": {
+      "question": "ทำไมหมาป่าหนุ่มต้องหนีกลับเข้าสู่เงามืด?",
+      "answer": "เพราะถูกค้นพบ"
+    }
+  },
+  {
+    "Context": "หมาป่าและสุนัขบ้านพูดคุยกันเกี่ยวกับชีวิตในปราสาท แต่หมาป่าตัดสินใจไม่ไปเพราะไม่ต้องการถูกล่ามโซ่",
+    "target": {
+      "question": "หมาป่าตัดสินใจไม่ไปอยู่ในปราสาทด้วยเหตุผลใด?",
+      "answer": "ไม่ต้องการถูกล่ามโซ่"
+    }
+  },
+  {
+    "Context": "หมาป่าเลือกที่จะกลับไปยังถ้ำของมันและยอมรับความหิวโหยเพื่อรักษาอิสรภาพ",
+    "target": {
+      "question": "หมาป่าเลือกที่จะกลับไปยังถ้ำของมันเพื่ออะไร?",
+      "answer": "เพื่อรักษาอิสรภาพ"
+    }
+  },
+  {
+    "Context": "เจ้าชายสายลมอาศัยอยู่ในดินแดนทางตอนเหนือที่มีอากาศหนาวเย็นตลอดทั้งปี และเมื่อเดินทางไปยังทิศใต้ ชาวเมืองจะรีบเก็บข้าวโพดและปิดประตูหน้าต่าง เจ้าชายรู้สึกเศร้าเมื่อเห็นคนหลบหน้า และถูกห้ามไม่ให้ไปยังดินแดนทางทิศตะวันตกที่มีเรื่องเล่าของปิศาจสีขาว",
+    "target": {
+      "question": "ทำไมชาวเมืองถึงรีบเก็บข้าวโพดและปิดประตูหน้าต่างเมื่อเจ้าชายสายลมเดินทางมาถึง?",
+      "answer": "เพราะพวกเขาไม่ต้องการต้อนรับการมาเยือนของเจ้าชายสายลม"
+    }
+  },
+  {
+    "Context": "เจ้าชายสายลมเดินทางไปยังดินแดนทางทิศตะวันตกและพบกับเจ้าตุ่นที่เตือนว่าการเดินทางต่อไปอาจทำให้เจ้าหญิงปุยฝ้ายเสียพระทัย เจ้าชายจึงขอฟังเรื่องราวของเจ้าหญิงปุยฝ้าย",
+    "target": {
+      "question": "เจ้าตุ่นเตือนเจ้าชายสายลมเกี่ยวกับอะไรเมื่อเขาเดินทางไปยังดินแดนทางทิศตะวันตก?",
+      "answer": "เตือนว่าการเดินทางต่อไปอาจทำให้เจ้าหญิงปุยฝ้ายเสียพระทัย"
+    }
+  },
+  {
+    "Context": "เจ้าหญิงปุยฝ้ายอาศัยอยู่ในดินแดนทางทิศตะวันตกที่อบอุ่นไปด้วยแสงแดดยามบ่าย และดูแลต้นฝ้ายที่ชื่อว่า 'ต้นฝ้าย' ให้ออกดอกสีขาว ชาวเมืองต้องทำงานหนักในการรดน้ำต้นฝ้าย",
+    "target": {
+      "question": "เจ้าหญิงปุยฝ้ายดูแลพืชชนิดใดในดินแดนทางทิศตะวันตก?",
+      "answer": "ต้นฝ้าย"
+    }
+  },
+  {
+    "Context": "เจ้าชายสายลมเดินทางเข้าสู่ดินแดนแห่งปุยฝ้ายและช่วยให้กังหันลมหมุนเพื่อวิดน้ำส่งไปให้ต้นฝ้ายได้ชุ่มชื้น ชาวเมืองต่างดีใจเมื่อเห็นน้ำไหลผ่านต้นฝ้ายทุกต้น",
+    "target": {
+      "question": "เจ้าชายสายลมช่วยชาวเมืองในดินแดนแห่งปุยฝ้ายอย่างไร?",
+      "answer": "ช่วยให้กังหันลมหมุนเพื่อวิดน้ำส่งไปให้ต้นฝ้ายได้ชุ่มชื้น"
+    }
+  },
+  {
+    "Context": "A group of frogs accidentally fell into a lotus pond led by an old frog. Despite initial panic and blame, they eventually cooperated to call for rain by croaking together, which raised the water level and allowed them to escape.",
+    "target": {
+      "question": "Why did the frogs initially fall into the lotus pond?",
+      "answer": "The old frog accidentally fell into the pond, and the other frogs followed him."
+    }
+  },
+  {
+    "Context": "A group of frogs accidentally fell into a lotus pond led by an old frog. Despite initial panic and blame, they eventually cooperated to call for rain by croaking together, which raised the water level and allowed them to escape.",
+    "target": {
+      "question": "What was the old frog's advice when the frogs were panicking?",
+      "answer": "The old frog advised them to stay calm and think, as panic leads to death."
+    }
+  },
+  {
+    "Context": "A group of frogs accidentally fell into a lotus pond led by an old frog. Despite initial panic and blame, they eventually cooperated to call for rain by croaking together, which raised the water level and allowed them to escape.",
+    "target": {
+      "question": "How did the frogs manage to escape the lotus pond?",
+      "answer": "They croaked together to call for rain, which increased the water level until it overflowed, allowing them to escape."
+    }
+  },
+  {
+    "Context": "A group of frogs accidentally fell into a lotus pond led by an old frog. Despite initial panic and blame, they eventually cooperated to call for rain by croaking together, which raised the water level and allowed them to escape.",
+    "target": {
+      "question": "What triggered the frogs to start croaking for rain?",
+      "answer": "The old frog started croaking loudly, which inspired the young frog to realize they were calling for rain."
+    }
+  },
+  {
+    "Context": "ยายแห้งเป็นเด็กผู้หญิงที่ผอมมากจนไม่ชอบกินอาหาร แม่พยายามให้เธอกินแต่เธอก็ไม่ยอม วันหนึ่งขณะเดินไปโรงเรียน ลมพัดจนเธอลอยขึ้นฟ้า ลอยไปจนนั่งบนกิ่งแอปเปิ้ลและเริ่มกินแอปเปิ้ล พบว่ามันอร่อยและช่วยให้เธอลงมาจากกิ่งไม้ได้ หลังจากนั้นเธอก็เริ่มกินอาหารมากขึ้น",
+    "target": {
+      "question": "ทำไมยายแห้งถึงเริ่มกินอาหารมากขึ้นหลังจากเหตุการณ์ที่ลอยฟ้า?",
+      "answer": "เพราะเธอพบว่าแอปเปิ้ลอร่อยและช่วยให้เธอลงมาจากกิ่งไม้ได้"
+    }
+  },
+  {
+    "Context": "ยายแห้งไม่ชอบกินอาหารและมักจะให้อาหารกลางวันของเธอกับเพื่อนๆ แม่พยายามขอร้องให้เธอกินแต่เธอไม่ยอม วันหนึ่งลมพัดเธอลอยขึ้นฟ้าและตกใจมาก เธอลอยไปจนนั่งบนกิ่งแอปเปิ้ลและเริ่มกินแอปเปิ้ล",
+    "target": {
+      "question": "ยายแห้งทำอะไรเมื่อเธอลอยไปนั่งบนกิ่งแอปเปิ้ล?",
+      "answer": "เธอเริ่มกินแอปเปิ้ล"
+    }
+  },
+  {
+    "Context": "ยายแห้งเป็นเด็กผู้หญิงที่ผอมมากและไม่ชอบกินอาหาร แม่พยายามให้เธอกินแต่เธอไม่ยอม วันหนึ่งขณะเดินไปโรงเรียน ลมพัดเธอลอยขึ้นฟ้า ลอยไปจนนั่งบนกิ่งแอปเปิ้ลและเริ่มกินแอปเปิ้ล หลังจากนั้นเธอก็เริ่มกินอาหารมากขึ้น",
+    "target": {
+      "question": "ยายแห้งเปลี่ยนแปลงอย่างไรหลังจากเหตุการณ์ที่ลอยฟ้า?",
+      "answer": "เธอเริ่มกินอาหารมากขึ้น"
+    }
+  },
+  {
+    "Context": "ยายแห้งไม่ชอบกินอาหารและมักจะให้อาหารกลางวันของเธอกับเพื่อนๆ แม่พยายามขอร้องให้เธอกินแต่เธอไม่ยอม วันหนึ่งลมพัดเธอลอยขึ้นฟ้าและตกใจมาก เธอลอยไปจนนั่งบนกิ่งแอปเปิ้ลและเริ่มกินแอปเปิ้ล หลังจากนั้นเธอก็เริ่มกินอาหารมากขึ้น",
+    "target": {
+      "question": "ยายแห้งได้รับความช่วยเหลือจากใครในการลงมาจากกิ่งแอปเปิ้ล?",
+      "answer": "ไม่มีใครช่วย เธอกินแอปเปิ้ลจนหนักพอที่จะลงมาได้"
+    }
+  },
+  {
+    "Context": "แมงมุมตัวหนึ่งที่มีใยทองคำถูกองค์หญิงเชิญไปทอผ้าในวัง แต่สุดท้ายมันรู้สึกถูกจำกัดอิสระและคิดถึงชีวิตในป่า หลังจากเกิดอุบัติเหตุทำให้โหลแก้วแตก มันจึงหนีกลับไปในป่าและได้รับการยกโทษจากแมลงทับชรา",
+    "target": {
+      "question": "แมงมุมใยทองคำรู้สึกอย่างไรเมื่อถูกจำกัดอิสระในวัง?",
+      "answer": "รู้สึกถูกจำกัดอิสระและคิดถึงชีวิตในป่า"
+    }
+  },
+  {
+    "Context": "แมงมุมใยทองคำถูกองค์หญิงเชิญไปทอผ้าในวัง แต่สุดท้ายมันรู้สึกถูกจำกัดอิสระและคิดถึงชีวิตในป่า หลังจากเกิดอุบัติเหตุทำให้โหลแก้วแตก มันจึงหนีกลับไปในป่าและได้รับการยกโทษจากแมลงทับชรา",
+    "target": {
+      "question": "เหตุการณ์ใดทำให้แมงมุมใยทองคำสามารถหนีกลับไปในป่าได้?",
+      "answer": "เกิดอุบัติเหตุทำให้โหลแก้วแตก"
+    }
+  },
+  {
+    "Context": "แมงมุมใยทองคำถูกองค์หญิงเชิญไปทอผ้าในวัง แต่สุดท้ายมันรู้สึกถูกจำกัดอิสระและคิดถึงชีวิตในป่า หลังจากเกิดอุบัติเหตุทำให้โหลแก้วแตก มันจึงหนีกลับไปในป่าและได้รับการยกโทษจากแมลงทับชรา",
+    "target": {
+      "question": "แมงมุมใยทองคำได้รับการยกโทษจากใครหลังจากกลับไปในป่า?",
+      "answer": "ได้รับการยกโทษจากแมลงทับชรา"
+    }
+  },
+  {
+    "Context": "แมงมุมใยทองคำถูกองค์หญิงเชิญไปทอผ้าในวัง แต่สุดท้ายมันรู้สึกถูกจำกัดอิสระและคิดถึงชีวิตในป่า หลังจากเกิดอุบัติเหตุทำให้โหลแก้วแตก มันจึงหนีกลับไปในป่าและได้รับการยกโทษจากแมลงทับชรา",
+    "target": {
+      "question": "แมงมุมใยทองคำทำอะไรหลังจากกลับไปถึงป่า?",
+      "answer": "ไปหาแมลงทับชราและขอโทษ"
+    }
+  },
+  {
+    "Context": "In a peaceful valley, Lina lives with her family on a horse farm. Her favorite horse, Maya, gives birth to a unique foal named Mikey, who has curly hair. Mikey faces rejection from other horses and children due to his different appearance. Lina spends a lot of time with Mikey, providing him comfort. Eventually, Mikey becomes strong and forms a close bond with Toto, a rescue dog. When Uncle Bastian suggests taking Mikey to help in rescue operations, Lina agrees, knowing Mikey will be well cared for and happy.",
+    "target": {
+      "question": "What is the name of Lina's favorite horse that gives birth to Mikey?",
+      "answer": "Maya"
+    }
+  },
+  {
+    "Context": "In a peaceful valley, Lina lives with her family on a horse farm. Her favorite horse, Maya, gives birth to a unique foal named Mikey, who has curly hair. Mikey faces rejection from other horses and children due to his different appearance. Lina spends a lot of time with Mikey, providing him comfort. Eventually, Mikey becomes strong and forms a close bond with Toto, a rescue dog. When Uncle Bastian suggests taking Mikey to help in rescue operations, Lina agrees, knowing Mikey will be well cared for and happy.",
+    "target": {
+      "question": "Why do other horses and children reject Mikey?",
+      "answer": "Because he has different hair."
+    }
+  },
+  {
+    "Context": "In a peaceful valley, Lina lives with her family on a horse farm. Her favorite horse, Maya, gives birth to a unique foal named Mikey, who has curly hair. Mikey faces rejection from other horses and children due to his different appearance. Lina spends a lot of time with Mikey, providing him comfort. Eventually, Mikey becomes strong and forms a close bond with Toto, a rescue dog. When Uncle Bastian suggests taking Mikey to help in rescue operations, Lina agrees, knowing Mikey will be well cared for and happy.",
+    "target": {
+      "question": "Who does Mikey form a close bond with that leads to a significant change in his life?",
+      "answer": "Toto, the rescue dog"
+    }
+  },
+  {
+    "Context": "In a peaceful valley, Lina lives with her family on a horse farm. Her favorite horse, Maya, gives birth to a unique foal named Mikey, who has curly hair. Mikey faces rejection from other horses and children due to his different appearance. Lina spends a lot of time with Mikey, providing him comfort. Eventually, Mikey becomes strong and forms a close bond with Toto, a rescue dog. When Uncle Bastian suggests taking Mikey to help in rescue operations, Lina agrees, knowing Mikey will be well cared for and happy.",
+    "target": {
+      "question": "What role does Uncle Bastian play in Mikey's life?",
+      "answer": "He suggests taking Mikey to help in rescue operations."
+    }
+  },
+  {
+    "Context": "ในบ่ายวันหนึ่ง เจ้าลากำลังเล็มต้นถั่วอย่างมีความสุข จู่ๆ หมาป่าท่าทางดุร้ายก็วิ่งมาหามัน หมาป่าหิวโซและเจ้าลากลัวว่าจะถูกกิน ในช่วงเวลาที่หมาป่าเข้าใกล้ เจ้าลาแกล้งบอกว่ากีบเท้ามันถูกหนามตำ หมาป่าเชื่อและก้มลงดูกีบเท้าเจ้าลา แต่เจ้าลาใช้โอกาสนี้เตะหมาป่าอย่างแรงจนมันลอยไปตกกลางทุ่งหญ้า หมาป่าจึงย่องเข้าป่าไป",
+    "target": {
+      "question": "เจ้าลาใช้กลอุบายอะไรเพื่อหลอกหมาป่า?",
+      "answer": "เจ้าลาแกล้งบอกว่ากีบเท้ามันถูกหนามตำ"
+    }
+  },
+  {
+    "Context": "ในบ่ายวันหนึ่ง เจ้าลากำลังเล็มต้นถั่วอย่างมีความสุข จู่ๆ หมาป่าท่าทางดุร้ายก็วิ่งมาหามัน หมาป่าหิวโซและเจ้าลากลัวว่าจะถูกกิน ในช่วงเวลาที่หมาป่าเข้าใกล้ เจ้าลาแกล้งบอกว่ากีบเท้ามันถูกหนามตำ หมาป่าเชื่อและก้มลงดูกีบเท้าเจ้าลา แต่เจ้าลาใช้โอกาสนี้เตะหมาป่าอย่างแรงจนมันลอยไปตกกลางทุ่งหญ้า หมาป่าจึงย่องเข้าป่าไป",
+    "target": {
+      "question": "หมาป่ามีปฏิกิริยาอย่างไรหลังจากถูกเจ้าลาเตะ?",
+      "answer": "หมาป่าลอยไปตกกลางทุ่งหญ้าและย่องเข้าป่าไป"
+    }
+  },
+  {
+    "Context": "ในบ่ายวันหนึ่ง เจ้าลากำลังเล็มต้นถั่วอย่างมีความสุข จู่ๆ หมาป่าท่าทางดุร้ายก็วิ่งมาหามัน หมาป่าหิวโซและเจ้าลากลัวว่าจะถูกกิน ในช่วงเวลาที่หมาป่าเข้าใกล้ เจ้าลาแกล้งบอกว่ากีบเท้ามันถูกหนามตำ หมาป่าเชื่อและก้มลงดูกีบเท้าเจ้าลา แต่เจ้าลาใช้โอกาสนี้เตะหมาป่าอย่างแรงจนมันลอยไปตกกลางทุ่งหญ้า หมาป่าจึงย่องเข้าป่าไป",
+    "target": {
+      "question": "เจ้าลาใช้ส่วนใดของร่างกายเตะหมาป่า?",
+      "answer": "ขาหลัง"
+    }
+  },
+  {
+    "Context": "ในบ่ายวันหนึ่ง เจ้าลากำลังเล็มต้นถั่วอย่างมีความสุข จู่ๆ หมาป่าท่าทางดุร้ายก็วิ่งมาหามัน หมาป่าหิวโซและเจ้าลากลัวว่าจะถูกกิน ในช่วงเวลาที่หมาป่าเข้าใกล้ เจ้าลาแกล้งบอกว่ากีบเท้ามันถูกหนามตำ หมาป่าเชื่อและก้มลงดูกีบเท้าเจ้าลา แต่เจ้าลาใช้โอกาสนี้เตะหมาป่าอย่างแรงจนมันลอยไปตกกลางทุ่งหญ้า หมาป่าจึงย่องเข้าป่าไป",
+    "target": {
+      "question": "เจ้าลาพูดอะไรหลังจากเตะหมาป่า?",
+      "answer": "อาจจะเพราะมันไม่มีหนามอยู่จริงๆ น่ะสิ!"
+    }
+  },
+  {
+    "Context": "ในฟาร์มเลี้ยงแพะมีแพะตัวเมียชื่อโฟแลตที่มีความปรารถนาอยากกินน้ำอัดลม แต่ไม่เคยได้ไปกับครอบครัวเจ้าของฟาร์มที่ไปดื่มที่ร้านริมแม่น้ำทุกวันอาทิตย์ เจ้าของฟาร์มสังเกตเห็นโฟแลตไม่ยอมกินอะไรจนผอมและไม่มีน้ำนม จึงถามและได้รู้ว่ามันอยากกินน้ำอัดลม เจ้าของฟาร์มจึงนำน้ำอัดลมมาให้โฟแลตลองชิมและมันชอบมาก",
+    "target": {
+      "question": "ทำไมเจ้าโฟแลตไม่ยอมกินอะไรจนผอม?",
+      "answer": "เพราะมันอยากกินน้ำอัดลม"
+    }
+  },
+  {
+    "Context": "เจ้าของฟาร์มนำน้ำอัดลมมาให้โฟแลตลองชิม และโฟแลตชอบมาก แต่โฟแลตยังคงมีความปรารถนาอยากไปร้านริมแม่น้ำ ภรรยาของเจ้าของฟาร์มเสนอให้พาโฟแลตไปร้าน และในที่สุดเจ้าของฟาร์มก็ยอมพาโฟแลตไป ที่ร้านพนักงานตัดสินใจให้โฟแลตเข้าไปและมันได้กินน้ำอัดลมที่ร้าน",
+    "target": {
+      "question": "เจ้าของฟาร์มตัดสินใจพาโฟแลตไปร้านริมแม่น้ำได้อย่างไร?",
+      "answer": "ภรรยาของเขาเสนอให้พาโฟแลตไปและเขาก็ยอม"
+    }
+  },
+  {
+    "Context": "เจ้าโฟแลตได้ไปร้านริมแม่น้ำและกินน้ำอัดลมตามที่ฝันไว้ ลูกค้าในร้านต่างพากันมองและขอถ่ายรูปกับโฟแลต ทำให้ร้านมีลูกค้าเต็ม พนักงานร้านจึงตัดสินใจไม่คิดเงินครอบครัวเจ้าของฟาร์มและขอให้พาโฟแลตมาอีก",
+    "target": {
+      "question": "ทำไมพนักงานร้านตัดสินใจไม่คิดเงินครอบครัวเจ้าของฟาร์ม?",
+      "answer": "เพราะโฟแลตทำให้ร้านมีลูกค้าเต็ม"
+    }
+  },
+  {
+    "Context": "หลังจากที่เจ้าโฟแลตได้กินน้ำอัดลมที่ร้านริมแม่น้ำ มันได้กลายเป็นที่นิยมในร้าน ลูกค้ามากมายขอถ่ายรูปและมาดูโฟแลต ทำให้ร้านมีลูกค้าแน่น และเจ้าของฟาร์มได้พาโฟแลตไปกินน้ำอัดลมที่ร้านนี้ทุกอาทิตย์",
+    "target": {
+      "question": "โฟแลตได้กลายเป็นที่นิยมในร้านอย่างไร?",
+      "answer": "ลูกค้ามากมายขอถ่ายรูปและมาดูโฟแลต"
+    }
+  },
+  {
+    "Context": "กามีย์พบนกน้อยที่หนาวจัดและให้หมวกไหมพรมของเธอคลุมมันไว้ จากนั้นเธอและเพื่อนๆ พานกไปหาปู่ของจูเลียนซึ่งเป็นผู้เชี่ยวชาญด้านการรักษาสัตว์ ปู่แนะนำให้ใส่นกในกล่องที่ปูด้วยฟางเพื่อให้มันอบอุ่น กามีย์ตัดสินใจเลี้ยงนกจนโต แต่ปู่แนะนำให้รักษามันให้หายแล้วปล่อยมันกลับสู่ธรรมชาติ",
+    "target": {
+      "question": "ปู่ของจูเลียนแนะนำให้กามีย์ทำอย่างไรกับนกน้อยหลังจากรักษามันให้หายดี?",
+      "answer": "ปล่อยมันกลับไปอยู่กับครอบครัวตามธรรมชาติ"
+    }
+  },
+  {
+    "Context": "นกน้อยที่กามีย์ช่วยไว้สามารถพูดได้และเปิดเผยว่ามันเป็นเทวดา มันให้กามีย์ขอพรได้สามข้อ กามีย์ขอให้ซิลแวงช่วยซ่อมหลังคาบ้านของคุณปู่ ซิลแวงใช้มนต์เรียกเทวดาและนางฟ้ามาช่วยซ่อมหลังคา และงานซ่อมเสร็จสิ้นอย่างรวดเร็ว",
+    "target": {
+      "question": "กามีย์ขอพรอะไรจากซิลแวงเป็นข้อแรก?",
+      "answer": "ให้ช่วยซ่อมหลังคาบ้านของคุณปู่"
+    }
+  },
+  {
+    "Context": "กามีย์ขอพรข้อที่สองจากซิลแวงให้เด็กทุกคนได้รับของขวัญจากซานตาคลอสในวันคริสต์มาส ซิลแวงใช้มนต์เรียกซานตาคลอสมา และซานตาคลอสตกลงที่จะช่วยให้เด็กทุกคนได้รับของขวัญ",
+    "target": {
+      "question": "กามีย์ขอพรข้อที่สองจากซิลแวงเพื่อให้เกิดอะไร?",
+      "answer": "ให้เด็กทุกคนได้รับของขวัญจากซานตาคลอสในวันคริสต์มาส"
+    }
+  },
+  {
+    "Context": "กามีย์ขอพรข้อสุดท้ายจากซิลแวงให้ครอบครัวของเธอมีความสุขตลอดไป ซิลแวงตอบว่าเรื่องนี้ไม่ต้องใช้อำนาจวิเศษเพราะทุกอย่างขึ้นอยู่กับตัวของกามีย์เอง",
+    "target": {
+      "question": "กามีย์ขอพรข้อสุดท้ายจากซิลแวงเพื่อให้เกิดอะไร?",
+      "answer": "ให้ครอบครัวของเธอมีความสุขตลอดไป"
+    }
+  },
+  {
+    "Context": "Jim and John, twin brothers, lived with their grandmother who tried to teach them responsibility. However, they often neglected chores, leading to their grandmother's illness. Facing hardships without her, they sought help from a blind musician friend who suggested they seek a mythical helper named Louteng. Advised by an owl, they attempted to summon Louteng at a pond but failed. The owl revealed that they themselves were the 'little ghosts' meant to do the chores. The next day, their grandmother found the house tidy, mistakenly crediting Louteng, while only the boys knew the truth.",
+    "target": {
+      "question": "Who suggested Jim and John to seek help from Louteng?",
+      "answer": "A blind musician friend."
+    }
+  },
+  {
+    "Context": "Jim and John, twin brothers, lived with their grandmother who tried to teach them responsibility. However, they often neglected chores, leading to their grandmother's illness. Facing hardships without her, they sought help from a blind musician friend who suggested they seek a mythical helper named Louteng. Advised by an owl, they attempted to summon Louteng at a pond but failed. The owl revealed that they themselves were the 'little ghosts' meant to do the chores. The next day, their grandmother found the house tidy, mistakenly crediting Louteng, while only the boys knew the truth.",
+    "target": {
+      "question": "What did the owl reveal to Jim and John at the pond?",
+      "answer": "The owl revealed that they themselves were the 'little ghosts' meant to do the chores."
+    }
+  },
+  {
+    "Context": "Jim and John, twin brothers, lived with their grandmother who tried to teach them responsibility. However, they often neglected chores, leading to their grandmother's illness. Facing hardships without her, they sought help from a blind musician friend who suggested they seek a mythical helper named Louteng. Advised by an owl, they attempted to summon Louteng at a pond but failed. The owl revealed that they themselves were the 'little ghosts' meant to do the chores. The next day, their grandmother found the house tidy, mistakenly crediting Louteng, while only the boys knew the truth.",
+    "target": {
+      "question": "What did Jim and John find when they tried to summon Louteng?",
+      "answer": "They found nothing; the spell appeared to fail."
+    }
+  },
+  {
+    "Context": "Jim and John, twin brothers, lived with their grandmother who tried to teach them responsibility. However, they often neglected chores, leading to their grandmother's illness. Facing hardships without her, they sought help from a blind musician friend who suggested they seek a mythical helper named Louteng. Advised by an owl, they attempted to summon Louteng at a pond but failed. The owl revealed that they themselves were the 'little ghosts' meant to do the chores. The next day, their grandmother found the house tidy, mistakenly crediting Louteng, while only the boys knew the truth.",
+    "target": {
+      "question": "Who did the grandmother think tidied the house?",
+      "answer": "She thought it was the work of the mythical helper Louteng."
+    }
+  },
+  {
+    "Context": "ในทะเลสาบที่สวยงามมีหงส์หลงตัวเองที่ชอบดูถูกสัตว์อื่นๆ แต่วันหนึ่งมันพบว่าขนทองคำงอกออกมาจากตัวมัน และยิ่งขนทองงอกมากขึ้น หงส์ก็ยิ่งมีน้ำหนักมากขึ้นจนว่ายน้ำลำบาก ในที่สุดหงส์จมน้ำและได้รับความช่วยเหลือจากเป็ดที่มันเคยดูถูก หลังจากนั้นหงส์ก็เปลี่ยนไป มันกลายเป็นสุภาพและมีน้ำใจมากขึ้น",
+    "target": {
+      "question": "หงส์ในเรื่องนี้เปลี่ยนไปอย่างไรหลังจากที่ได้รับความช่วยเหลือจากเป็ด?",
+      "answer": "หงส์กลายเป็นสุภาพและมีน้ำใจมากขึ้น"
+    }
+  },
+  {
+    "Context": "หงส์ที่หลงตัวเองในทะเลสาบสวยงามเริ่มมีขนทองคำงอกออกมาจากตัว แต่ขนทองทำให้หงส์มีน้ำหนักมากขึ้นจนว่ายน้ำลำบาก ในที่สุดหงส์จมน้ำและได้รับความช่วยเหลือจากเป็ดที่มันเคยดูถูก หลังจากนั้นหงส์ก็เปลี่ยนไป มันกลายเป็นสุภาพและมีน้ำใจมากขึ้น",
+    "target": {
+      "question": "ขนทองคำที่งอกออกมามีผลกระทบอย่างไรต่อหงส์?",
+      "answer": "ทำให้หงส์มีน้ำหนักมากขึ้นจนว่ายน้ำลำบาก"
+    }
+  },
+  {
+    "Context": "หงส์ที่หลงตัวเองในทะเลสาบสวยงามเริ่มมีขนทองคำงอกออกมาจากตัว แต่ขนทองทำให้หงส์มีน้ำหนักมากขึ้นจนว่ายน้ำลำบาก ในที่สุดหงส์จมน้ำและได้รับความช่วยเหลือจากเป็ดที่มันเคยดูถูก หลังจากนั้นหงส์ก็เปลี่ยนไป มันกลายเป็นสุภาพและมีน้ำใจมากขึ้น",
+    "target": {
+      "question": "ใครเป็นผู้ช่วยเหลือหงส์เมื่อมันจมน้ำ?",
+      "answer": "เป็ดที่หงส์เคยดูถูก"
+    }
+  },
+  {
+    "Context": "หงส์ที่หลงตัวเองในทะเลสาบสวยงามเริ่มมีขนทองคำงอกออกมาจากตัว แต่ขนทองทำให้หงส์มีน้ำหนักมากขึ้นจนว่ายน้ำลำบาก ในที่สุดหงส์จมน้ำและได้รับความช่วยเหลือจากเป็ดที่มันเคยดูถูก หลังจากนั้นหงส์ก็เปลี่ยนไป มันกลายเป็นสุภาพและมีน้ำใจมากขึ้น",
+    "target": {
+      "question": "หงส์รู้สึกอย่างไรหลังจากได้รับความช่วยเหลือจากเป็ด?",
+      "answer": "หงส์รู้สึกขอบคุณและเปลี่ยนไป"
+    }
+  },
+  {
+    "Context": "โอลิเวียร์ได้รับนกเขาสองตัวเป็นของขวัญวันเกิดและสงสัยว่าทำไมพวกมันถึงมีสร้อยคอ ปู่ของเขาจึงเล่าเรื่องนกเขาตัวหนึ่งที่หลงตัวเองและต้องการสวมสร้อยคอเหมือนสุนัข แต่สุดท้ายได้เรียนรู้ว่าสร้อยคอเป็นสัญลักษณ์ของการถูกครอบครอง นกเขาจึงทิ้งสร้อยคอแต่รอยดำจากสร้อยคอยังคงอยู่และถ่ายทอดมาถึงลูกหลาน",
+    "target": {
+      "question": "ทำไมนกเขาของโอลิเวียร์ถึงมีสร้อยคอ?",
+      "answer": "เพราะนกเขาตัวหนึ่งในอดีตเคยสวมสร้อยคอและรอยดำจากสร้อยคอนั้นถ่ายทอดมาถึงลูกหลาน"
+    }
+  },
+  {
+    "Context": "โอลิเวียร์ได้รับนกเขาสองตัวเป็นของขวัญวันเกิดและสงสัยว่าทำไมพวกมันถึงมีสร้อยคอ ปู่ของเขาจึงเล่าเรื่องนกเขาตัวหนึ่งที่หลงตัวเองและต้องการสวมสร้อยคอเหมือนสุนัข แต่สุดท้ายได้เรียนรู้ว่าสร้อยคอเป็นสัญลักษณ์ของการถูกครอบครอง นกเขาจึงทิ้งสร้อยคอแต่รอยดำจากสร้อยคอยังคงอยู่และถ่ายทอดมาถึงลูกหลาน",
+    "target": {
+      "question": "นกเขาตัวในเรื่องเรียนรู้อะไรจากการสวมสร้อยคอ?",
+      "answer": "นกเขาเรียนรู้ว่าสร้อยคอเป็นสัญลักษณ์ของการถูกครอบครองไม่ใช่เครื่องประดับที่มีไว้เพื่อโอ้อวด"
+    }
+  },
+  {
+    "Context": "โอลิเวียร์ได้รับนกเขาสองตัวเป็นของขวัญวันเกิดและสงสัยว่าทำไมพวกมันถึงมีสร้อยคอ ปู่ของเขาจึงเล่าเรื่องนกเขาตัวหนึ่งที่หลงตัวเองและต้องการสวมสร้อยคอเหมือนสุนัข แต่สุดท้ายได้เรียนรู้ว่าสร้อยคอเป็นสัญลักษณ์ของการถูกครอบครอง นกเขาจึงทิ้งสร้อยคอแต่รอยดำจากสร้อยคอยังคงอยู่และถ่ายทอดมาถึงลูกหลาน",
+    "target": {
+      "question": "นกเขาทำอะไรกับสร้อยคอหลังจากที่เข้าใจความหมายของมัน?",
+      "answer": "นกเขาดึงสร้อยคอออกและทิ้งลงไปในบึง"
+    }
+  },
+  {
+    "Context": "โอลิเวียร์ได้รับนกเขาสองตัวเป็นของขวัญวันเกิดและสงสัยว่าทำไมพวกมันถึงมีสร้อยคอ ปู่ของเขาจึงเล่าเรื่องนกเขาตัวหนึ่งที่หลงตัวเองและต้องการสวมสร้อยคอเหมือนสุนัข แต่สุดท้ายได้เรียนรู้ว่าสร้อยคอเป็นสัญลักษณ์ของการถูกครอบครอง นกเขาจึงทิ้งสร้อยคอแต่รอยดำจากสร้อยคอยังคงอยู่และถ่ายทอดมาถึงลูกหลาน",
+    "target": {
+      "question": "สร้อยคอมีผลอย่างไรต่อนกเขาในเรื่อง?",
+      "answer": "สร้อยคอทำให้นกเขาหลงตัวเองและทะนงตนมากขึ้น"
+    }
+  },
+  {
+    "Context": "มาร์แตงเป็นคนเลี้ยงแพะที่รักแพะมาก โดยเฉพาะซาราห์ แพะน้อยที่สวยที่สุดแต่มีนิสัยหยิ่งและชอบแกล้งเพื่อนๆ ซาราห์ไม่ชอบลิลลี่ทุ่งเพราะคิดว่ามันเป็นเพียงดอกไม้ป่าธรรมดา แต่ลิลลี่ทุ่งเป็นดอกไม้ที่ใจดีและไม่เคยหัวเราะเยาะซาราห์แม้จะถูกดูถูก",
+    "target": {
+      "question": "ทำไมซาราห์ไม่ชอบลิลลี่ทุ่ง?",
+      "answer": "เพราะซาราห์คิดว่าลิลลี่ทุ่งเป็นเพียงดอกไม้ป่าธรรมดา"
+    }
+  },
+  {
+    "Context": "ซาราห์มีนิสัยเปลี่ยนไปทุกวัน ชอบแกล้งเพื่อนๆ และไม่เชื่อฟังมาร์แตง ชาวไร่แนะนำให้มาร์แตงใส่ปลอกคอแพะที่มีกระดึงให้ซาราห์ เพื่อทราบตำแหน่งของมัน",
+    "target": {
+      "question": "ชาวไร่แนะนำให้มาร์แตงทำอะไรเพื่อจัดการกับซาราห์?",
+      "answer": "ใส่ปลอกคอแพะที่มีกระดึงให้ซาราห์"
+    }
+  },
+  {
+    "Context": "ลิลลี่ทุ่งเห็นน้ำตาของซาราห์และเสนอให้ซาราห์สัญญาว่าจะเปลี่ยนแปลงตัวเองเป็นแพะที่สุภาพเรียบร้อย ซาราห์ตกลงและกลับไปเข้าฝูงอย่างสุภาพ",
+    "target": {
+      "question": "ลิลลี่ทุ่งช่วยซาราห์อย่างไร?",
+      "answer": "เสนอให้ซาราห์สัญญาว่าจะเปลี่ยนแปลงตัวเองเป็นแพะที่สุภาพเรียบร้อย"
+    }
+  },
+  {
+    "Context": "หลังจากที่ซาราห์สัญญาว่าจะเปลี่ยนแปลงตัวเอง มาร์แตงสังเกตเห็นว่าซาราห์มักเลียต้นลิลลี่ทุ่งที่มีรูปร่างเหมือนกระดึง ซาราห์รู้ว่าทำไมต้นนั้นมีรูปร่างเช่นนั้น",
+    "target": {
+      "question": "มาร์แตงสังเกตเห็นอะไรเกี่ยวกับซาราห์หลังจากที่มันสัญญาว่าจะเปลี่ยนแปลงตัวเอง?",
+      "answer": "ซาราห์มักเลียต้นลิลลี่ทุ่งที่มีรูปร่างเหมือนกระดึง"
+    }
+  },
+  {
+    "Context": "ในยุคกลางของยุโรป หนูน้อยอัลเบิร์ตมีหน้าที่กวาดใบไม้ในปราสาท แต่เขาชอบไปเล่นที่ลำธารใกล้ทุ่งหญ้า และแอบทิ้งใบไม้ลงไปในน้ำแทนที่จะเผา ทหารศัตรูที่ดื่มน้ำจากลำธารนั้นหมดแรงและหลับไป ทำให้เจ้าของปราสาทจับพวกเขาได้ง่าย",
+    "target": {
+      "question": "อัลเบิร์ตทำอะไรแทนการเผาใบไม้?",
+      "answer": "อัลเบิร์ตทิ้งใบไม้ลงในลำธาร"
+    }
+  },
+  {
+    "Context": "ในยุคกลางของยุโรป หนูน้อยอัลเบิร์ตมีหน้าที่กวาดใบไม้ในปราสาท แต่เขาชอบไปเล่นที่ลำธารใกล้ทุ่งหญ้า และแอบทิ้งใบไม้ลงไปในน้ำแทนที่จะเผา ทหารศัตรูที่ดื่มน้ำจากลำธารนั้นหมดแรงและหลับไป ทำให้เจ้าของปราสาทจับพวกเขาได้ง่าย",
+    "target": {
+      "question": "ทหารศัตรูมีอาการอย่างไรหลังจากดื่มน้ำจากลำธาร?",
+      "answer": "หมดแรงและหลับไป"
+    }
+  },
+  {
+    "Context": "ในยุคกลางของยุโรป หนูน้อยอัลเบิร์ตมีหน้าที่กวาดใบไม้ในปราสาท แต่เขาชอบไปเล่นที่ลำธารใกล้ทุ่งหญ้า และแอบทิ้งใบไม้ลงไปในน้ำแทนที่จะเผา ทหารศัตรูที่ดื่มน้ำจากลำธารนั้นหมดแรงและหลับไป ทำให้เจ้าของปราสาทจับพวกเขาได้ง่าย",
+    "target": {
+      "question": "เจ้าของปราสาททำอย่างไรกับทหารศัตรูที่หลับไป?",
+      "answer": "จับพวกเขาได้อย่างง่ายดาย"
+    }
+  },
+  {
+    "Context": "ในยุคกลางของยุโรป หนูน้อยอัลเบิร์ตมีหน้าที่กวาดใบไม้ในปราสาท แต่เขาชอบไปเล่นที่ลำธารใกล้ทุ่งหญ้า และแอบทิ้งใบไม้ลงไปในน้ำแทนที่จะเผา ทหารศัตรูที่ดื่มน้ำจากลำธารนั้นหมดแรงและหลับไป ทำให้เจ้าของปราสาทจับพวกเขาได้ง่าย",
+    "target": {
+      "question": "อัลเบิร์ตทำอะไรหลังจากทิ้งใบไม้ลงในลำธาร?",
+      "answer": "หาที่นั่งลงเพื่องีบหลับและหลบลมหนาว"
+    }
+  },
+  {
+    "Context": "ในนิทานหิ่งห้อย พระอาทิตย์และสายฝนตัดสินใจปรากฏตัวพร้อมกัน สร้างสะพานรุ้งกินน้ำ พระอาทิตย์ต้องการสร้างสะพานเพื่อไปหาเมฆ ส่วนสายฝนต้องการไปพบพระอาทิตย์ ภาพที่น่าอัศจรรย์ปรากฏขึ้นเมื่อพระอาทิตย์ส่องแสงแรงและเมฆโปรยหยาดฝนเบาบางลงบนสะพานหลากสี สัตว์ต่างๆตกใจกลัวและวิ่งหนี แต่หนอนบางตัวไม่กลัวและพบว่าฝนประหลาดนี้สวยงามน่ากิน จึงลองชิม และเมื่อโตเต็มที่กลายเป็นหิ่งห้อยที่มีแสงสว่างในตัวเอง",
+    "target": {
+      "question": "ทำไมหนอนบางตัวถึงกลายเป็นหิ่งห้อยที่มีแสงสว่างในตัวเอง?",
+      "answer": "เพราะหนอนเหล่านั้นลองชิมฝนประหลาดที่ตกลงมาและพบว่ามันสวยงามน่ากิน จึงกลายเป็นหิ่งห้อยที่มีแสงสว่างในตัวเองเมื่อโตเต็มที่"
+    }
+  },
+  {
+    "Context": "ในนิทานหิ่งห้อย พระอาทิตย์และสายฝนตัดสินใจปรากฏตัวพร้อมกัน สร้างสะพานรุ้งกินน้ำ พระอาทิตย์ต้องการสร้างสะพานเพื่อไปหาเมฆ ส่วนสายฝนต้องการไปพบพระอาทิตย์ ภาพที่น่าอัศจรรย์ปรากฏขึ้นเมื่อพระอาทิตย์ส่องแสงแรงและเมฆโปรยหยาดฝนเบาบางลงบนสะพานหลากสี สัตว์ต่างๆตกใจกลัวและวิ่งหนี แต่หนอนบางตัวไม่กลัวและพบว่าฝนประหลาดนี้สวยงามน่ากิน จึงลองชิม และเมื่อโตเต็มที่กลายเป็นหิ่งห้อยที่มีแสงสว่างในตัวเอง",
+    "target": {
+      "question": "สะพานรุ้งกินน้ำถูกสร้างขึ้นเพื่ออะไร?",
+      "answer": "สะพานรุ้งกินน้ำถูกสร้างขึ้นเพื่อให้พระอาทิตย์ไปหาเมฆและให้สายฝนไปพบพระอาทิตย์"
+    }
+  },
+  {
+    "Context": "ในนิทานหิ่งห้อย พระอาทิตย์และสายฝนตัดสินใจปรากฏตัวพร้อมกัน สร้างสะพานรุ้งกินน้ำ พระอาทิตย์ต้องการสร้างสะพานเพื่อไปหาเมฆ ส่วนสายฝนต้องการไปพบพระอาทิตย์ ภาพที่น่าอัศจรรย์ปรากฏขึ้นเมื่อพระอาทิตย์ส่องแสงแรงและเมฆโปรยหยาดฝนเบาบางลงบนสะพานหลากสี สัตว์ต่างๆตกใจกลัวและวิ่งหนี แต่หนอนบางตัวไม่กลัวและพบว่าฝนประหลาดนี้สวยงามน่ากิน จึงลองชิม และเมื่อโตเต็มที่กลายเป็นหิ่งห้อยที่มีแสงสว่างในตัวเอง",
+    "target": {
+      "question": "สัตว์ต่างๆ มีปฏิกิริยาอย่างไรเมื่อเห็นฝนประหลาดตกลงมา?",
+      "answer": "สัตว์ต่างๆ ตกใจกลัวและวิ่งหนีเมื่อเห็นฝนประหลาดตกลงมา"
+    }
+  },
+  {
+    "Context": "ในนิทานหิ่งห้อย พระอาทิตย์และสายฝนตัดสินใจปรากฏตัวพร้อมกัน สร้างสะพานรุ้งกินน้ำ พระอาทิตย์ต้องการสร้างสะพานเพื่อไปหาเมฆ ส่วนสายฝนต้องการไปพบพระอาทิตย์ ภาพที่น่าอัศจรรย์ปรากฏขึ้นเมื่อพระอาทิตย์ส่องแสงแรงและเมฆโปรยหยาดฝนเบาบางลงบนสะพานหลากสี สัตว์ต่างๆตกใจกลัวและวิ่งหนี แต่หนอนบางตัวไม่กลัวและพบว่าฝนประหลาดนี้สวยงามน่ากิน จึงลองชิม และเมื่อโตเต็มที่กลายเป็นหิ่งห้อยที่มีแสงสว่างในตัวเอง",
+    "target": {
+      "question": "พระอาทิตย์และสายฝนตัดสินใจทำอะไรพร้อมกัน?",
+      "answer": "พระอาทิตย์และสายฝนตัดสินใจปรากฏตัวพร้อมกัน"
+    }
+  },
+  {
+    "Context": "ก้อนเมฆเป็นนักเดินทางที่ลอยไปตามลมในท้องฟ้า. เมฆน้อยไม่รู้ว่ามีหน้าที่รดน้ำต้นไม้จนกระทั่งเห็นดอกไม้เล็กๆ กำลังจะตายเพราะความแห้งแล้ง. เมฆน้อยรู้สึกทุกข์ใจและตัดสินใจร้องไห้, น้ำตาของมันกลายเป็นฝนที่ช่วยให้ดอกไม้นั้นฟื้นคืนชีพและทำให้พืชพันธุ์อื่นๆ เจริญงอกงาม.",
+    "target": {
+      "question": "เมฆน้อยรู้สึกอย่างไรเมื่อเห็นดอกไม้เล็กๆ กำลังจะตาย?",
+      "answer": "เมฆน้อยรู้สึกทุกข์ใจ"
+    }
+  },
+  {
+    "Context": "เมฆน้อยไม่รู้ว่ามีหน้าที่รดน้ำต้นไม้จนกระทั่งเห็นดอกไม้เล็กๆ กำลังจะตายเพราะความแห้งแล้ง. น้ำตาของเมฆน้อยกลายเป็นฝนที่ช่วยให้ดอกไม้นั้นฟื้นคืนชีพและทำให้พืชพันธุ์อื่นๆ เจริญงอกงาม.",
+    "target": {
+      "question": "น้ำตาของเมฆน้อยมีผลอย่างไรต่อดอกไม้เล็กๆ?",
+      "answer": "น้ำตาของเมฆน้อยกลายเป็นฝนที่ช่วยให้ดอกไม้นั้นฟื้นคืนชีพ"
+    }
+  },
+  {
+    "Context": "เมฆน้อยไม่รู้ว่ามีหน้าที่รดน้ำต้นไม้จนกระทั่งเห็นดอกไม้เล็กๆ กำลังจะตายเพราะความแห้งแล้ง. น้ำตาของเมฆน้อยกลายเป็นฝนที่ช่วยให้ดอกไม้นั้นฟื้นคืนชีพและทำให้พืชพันธุ์อื่นๆ เจริญงอกงาม.",
+    "target": {
+      "question": "เมฆน้อยตัดสินใจทำอะไรเมื่อเห็นดอกไม้เล็กๆ กำลังจะตาย?",
+      "answer": "เมฆน้อยตัดสินใจร้องไห้"
+    }
+  },
+  {
+    "Context": "เมฆน้อยไม่รู้ว่ามีหน้าที่รดน้ำต้นไม้จนกระทั่งเห็นดอกไม้เล็กๆ กำลังจะตายเพราะความแห้งแล้ง. น้ำตาของเมฆน้อยกลายเป็นฝนที่ช่วยให้ดอกไม้นั้นฟื้นคืนชีพและทำให้พืชพันธุ์อื่นๆ เจริญงอกงาม.",
+    "target": {
+      "question": "ผลลัพธ์จากการร้องไห้ของเมฆน้อยคืออะไร?",
+      "answer": "น้ำตาของเมฆน้อยกลายเป็นฝนที่ช่วยให้ดอกไม้นั้นฟื้นคืนชีพและทำให้พืชพันธุ์อื่นๆ เจริญงอกงาม"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องห่านออกไข่เป็นทองคำ ชาวนาและภรรยาที่ยากจนได้รับห่านจากหญิงชราซึ่งสามารถออกไข่ทองคำได้ พวกเขากลายเป็นร่ำรวยจากการขายไข่ทองคำ แต่ชาวนากลัวว่าห่านจะถูกขโมยหรือตาย จึงฆ่าห่านเพื่อหวังจะได้ไข่ทองคำทั้งหมด แต่กลับพบว่าในท้องห่านไม่มีไข่ทองคำ ทำให้ทรัพย์สินทั้งหมดหายไป",
+    "target": {
+      "question": "ชาวนาและภรรยาได้รับห่านที่ออกไข่ทองคำจากใคร?",
+      "answer": "หญิงชรา"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องห่านออกไข่เป็นทองคำ ชาวนาและภรรยาที่ยากจนได้รับห่านจากหญิงชราซึ่งสามารถออกไข่ทองคำได้ พวกเขากลายเป็นร่ำรวยจากการขายไข่ทองคำ แต่ชาวนากลัวว่าห่านจะถูกขโมยหรือตาย จึงฆ่าห่านเพื่อหวังจะได้ไข่ทองคำทั้งหมด แต่กลับพบว่าในท้องห่านไม่มีไข่ทองคำ ทำให้ทรัพย์สินทั้งหมดหายไป",
+    "target": {
+      "question": "ชาวนาทำอะไรกับห่านเพื่อหวังจะได้ไข่ทองคำทั้งหมด?",
+      "answer": "ฆ่าห่าน"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องห่านออกไข่เป็นทองคำ ชาวนาและภรรยาที่ยากจนได้รับห่านจากหญิงชราซึ่งสามารถออกไข่ทองคำได้ พวกเขากลายเป็นร่ำรวยจากการขายไข่ทองคำ แต่ชาวนากลัวว่าห่านจะถูกขโมยหรือตาย จึงฆ่าห่านเพื่อหวังจะได้ไข่ทองคำทั้งหมด แต่กลับพบว่าในท้องห่านไม่มีไข่ทองคำ ทำให้ทรัพย์สินทั้งหมดหายไป",
+    "target": {
+      "question": "ชาวนาพบอะไรในท้องห่านหลังจากที่ฆ่ามัน?",
+      "answer": "ไม่มีไข่ทองคำ"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องห่านออกไข่เป็นทองคำ ชาวนาและภรรยาที่ยากจนได้รับห่านจากหญิงชราซึ่งสามารถออกไข่ทองคำได้ พวกเขากลายเป็นร่ำรวยจากการขายไข่ทองคำ แต่ชาวนากลัวว่าห่านจะถูกขโมยหรือตาย จึงฆ่าห่านเพื่อหวังจะได้ไข่ทองคำทั้งหมด แต่กลับพบว่าในท้องห่านไม่มีไข่ทองคำ ทำให้ทรัพย์สินทั้งหมดหายไป",
+    "target": {
+      "question": "เหตุการณ์ใดเกิดขึ้นหลังจากที่ชาวนาฆ่าห่าน?",
+      "answer": "ทรัพย์สินทั้งหมดหายไป"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องราชสีห์กับหนู หนูน้อยที่กำลังวิ่งเล่นและวุ่นวายกับการเก็บเมล็ดพืช ได้ไม่ระวังตัวจนไปปลุกราชสีห์ที่กำลังหลับอยู่ ราชสีห์โกรธและคิดจะกินหนู แต่หนูได้ขอร้องให้ราชสีห์ปล่อยตัวและสัญญาว่าจะตอบแทนบุญคุณหากมีโอกาส",
+    "target": {
+      "question": "หนูน้อยได้ขอร้องอะไรกับราชสีห์หลังจากที่ถูกจับได้?",
+      "answer": "หนูน้อยได้ขอร้องให้ราชสีห์ปล่อยตัวและสัญญาว่าจะตอบแทนบุญคุณหากมีโอกาส"
+    }
+  },
+  {
+    "Context": "หลังจากที่ราชสีห์ปล่อยหนูไป ไม่นานหนูได้ยินเสียงราชสีห์ที่ตกอยู่ในความลำบาก เนื่องจากติดอยู่ในตาข่ายของนายพราน หนูจึงได้ช่วยราชสีห์หลุดจากตาข่าย",
+    "target": {
+      "question": "หนูน้อยช่วยราชสีห์อย่างไรเมื่อพบว่าราชสีห์ติดอยู่ในตาข่าย?",
+      "answer": "หนูน้อยได้แทะเชือกตาข่ายทีละเส้นจนราชสีห์หลุดจากตาข่าย"
+    }
+  },
+  {
+    "Context": "เมื่อราชสีห์ได้รับอิสระจากตาข่าย มันได้แสดงความขอบคุณต่อหนูน้อยที่ช่วยชีวิตมัน และรู้สึกประหลาดใจที่สัตว์ตัวเล็กๆ อย่างหนูสามารถช่วยชีวิตมันได้",
+    "target": {
+      "question": "ราชสีห์แสดงความรู้สึกอย่างไรหลังจากที่หนูน้อยช่วยมันหลุดจากตาข่าย?",
+      "answer": "ราชสีห์รู้สึกขอบคุณและประหลาดใจที่หนูน้อยสามารถช่วยชีวิตมันได้"
+    }
+  },
+  {
+    "Context": "นิทานเรื่องราชสีห์กับหนูสอนให้เราไม่ควรดูถูกผู้ที่ต่ำต้อยกว่าตนเอง เพราะแม้แต่สัตว์ตัวเล็กๆ อย่างหนูก็สามารถช่วยชีวิตราชสีห์ได้",
+    "target": {
+      "question": "นิทานเรื่องราชสีห์กับหนูสอนบทเรียนอะไร?",
+      "answer": "ไม่ควรดูถูกผู้ที่ต่ำต้อยกว่าตนเอง"
+    }
+  },
+  {
+    "Context": "เรื่องราวของต้นหลิวที่เรียกว่า 'ต้นไม้ร้องไห้' เพราะมีใบเหมือนหยดน้ำตา กวีหนุ่มที่เศร้าใจเพราะไม่มีใครฟังบทกวีของเขาได้รับแรงบันดาลใจจากต้นหลิว นกกระจอกแนะนำให้ต้นหลิวเปลี่ยนจากการให้ความคิดเศร้าเป็นความคิดสนุกสนาน ต้นหลิวพยายามเปลี่ยนแปลงตัวเองและส่งเสียงเพลงที่ร่าเริง ซึ่งทำให้กวีหนุ่มเขียนบทกวีใหม่ที่สนุกสนานและได้รับความสนใจจากผู้คน",
+    "target": {
+      "question": "ทำไมต้นหลิวถูกเรียกว่า 'ต้นไม้ร้องไห้'?",
+      "answer": "เพราะมีใบเหมือนหยดน้ำตา"
+    }
+  },
+  {
+    "Context": "เรื่องราวของต้นหลิวที่เรียกว่า 'ต้นไม้ร้องไห้' เพราะมีใบเหมือนหยดน้ำตา กวีหนุ่มที่เศร้าใจเพราะไม่มีใครฟังบทกวีของเขาได้รับแรงบันดาลใจจากต้นหลิว นกกระจอกแนะนำให้ต้นหลิวเปลี่ยนจากการให้ความคิดเศร้าเป็นความคิดสนุกสนาน ต้นหลิวพยายามเปลี่ยนแปลงตัวเองและส่งเสียงเพลงที่ร่าเริง ซึ่งทำให้กวีหนุ่มเขียนบทกวีใหม่ที่สนุกสนานและได้รับความสนใจจากผู้คน",
+    "target": {
+      "question": "นกกระจอกแนะนำอะไรให้ต้นหลิวเพื่อช่วยกวีหนุ่ม?",
+      "answer": "ให้เปลี่ยนจากการให้ความคิดเศร้าเป็นความคิดสนุกสนาน"
+    }
+  },
+  {
+    "Context": "เรื่องราวของต้นหลิวที่เรียกว่า 'ต้นไม้ร้องไห้' เพราะมีใบเหมือนหยดน้ำตา กวีหนุ่มที่เศร้าใจเพราะไม่มีใครฟังบทกวีของเขาได้รับแรงบันดาลใจจากต้นหลิว นกกระจอกแนะนำให้ต้นหลิวเปลี่ยนจากการให้ความคิดเศร้าเป็นความคิดสนุกสนาน ต้นหลิวพยายามเปลี่ยนแปลงตัวเองและส่งเสียงเพลงที่ร่าเริง ซึ่งทำให้กวีหนุ่มเขียนบทกวีใหม่ที่สนุกสนานและได้รับความสนใจจากผู้คน",
+    "target": {
+      "question": "ผลลัพธ์จากการที่ต้นหลิวเปลี่ยนแปลงตัวเองคืออะไร?",
+      "answer": "กวีหนุ่มเขียนบทกวีใหม่ที่สนุกสนานและได้รับความสนใจจากผู้คน"
+    }
+  },
+  {
+    "Context": "เรื่องราวของต้นหลิวที่เรียกว่า 'ต้นไม้ร้องไห้' เพราะมีใบเหมือนหยดน้ำตา กวีหนุ่มที่เศร้าใจเพราะไม่มีใครฟังบทกวีของเขาได้รับแรงบันดาลใจจากต้นหลิว นกกระจอกแนะนำให้ต้นหลิวเปลี่ยนจากการให้ความคิดเศร้าเป็นความคิดสนุกสนาน ต้นหลิวพยายามเปลี่ยนแปลงตัวเองและส่งเสียงเพลงที่ร่าเริง ซึ่งทำให้กวีหนุ่มเขียนบทกวีใหม่ที่สนุกสนานและได้รับความสนใจจากผู้คน",
+    "target": {
+      "question": "ต้นหลิวได้รับคำแนะนำจากใครในการเปลี่ยนแปลงตัวเอง?",
+      "answer": "นกกระจอก"
+    }
+  },
+  {
+    "Context": "ในฟาร์มเลี้ยงม้า ลาน้อยรู้สึกเหงาเพราะไม่มีใครคุยด้วย มารีจึงถักเสื้อกันหนาวให้ลาน้อยเพื่อให้มันออกไปอยู่ในทุ่งหญ้าได้ แม้จะมีเพิงกันฝน แต่ลาน้อยก็มีความสุขกับชีวิตในทุ่งหญ้า",
+    "target": {
+      "question": "ทำไมลาน้อยถึงรู้สึกเหงาในฟาร์มเลี้ยงม้า?",
+      "answer": "เพราะไม่มีใครคุยด้วย"
+    }
+  },
+  {
+    "Context": "มารีถักเสื้อกันหนาวให้ลาน้อยเพื่อให้มันออกไปอยู่ในทุ่งหญ้า แม้เสื้อไม่สวยแต่ก็อุ่นดี ลาน้อยแสดงความขอบคุณด้วยการถูแก้มมารี",
+    "target": {
+      "question": "มารีทำอะไรเพื่อช่วยให้ลาน้อยออกไปอยู่ในทุ่งหญ้าได้?",
+      "answer": "ถักเสื้อกันหนาวให้ลาน้อย"
+    }
+  },
+  {
+    "Context": "หลังจากได้รับเสื้อกันหนาว ลาน้อยได้ออกไปในทุ่งหญ้าและมีความสุขกับชีวิตที่นั่น มันได้สูดอากาศบนเนินและกลิ่นฟางสด",
+    "target": {
+      "question": "ลาน้อยรู้สึกอย่างไรเมื่อได้อยู่ในทุ่งหญ้าหลังจากได้รับเสื้อกันหนาว?",
+      "answer": "มีความสุข"
+    }
+  },
+  {
+    "Context": "ในฤดูหนาวถัดไป ลาน้อยและม้าทั้งหลายได้อยู่ในทุ่งหญ้า พวกมันได้ดูพระอาทิตย์ขึ้นบนเนินทุกๆเช้า",
+    "target": {
+      "question": "ลาน้อยและม้าทั้งหลายทำอะไรในทุ่งหญ้าในฤดูหนาวถัดไป?",
+      "answer": "ดูพระอาทิตย์ขึ้นบนเนินทุกๆเช้า"
+    }
+  },
+  {
+    "Context": "เรื่องราวของสุนัขจิ้งจอกที่มีขนสีขาวแต่เดิม แต่เปลี่ยนเป็นสีน้ำตาลหลังจากที่มันถูกชาวบ้านตามล่าเพราะขโมยไก่. ชาวบ้านตัดสินใจรวมตัวกันตามล่าจิ้งจอก และเมื่อจิ้งจอกถูกล้อมจนหนทางหนีไม่มี มันได้รับความช่วยเหลือจากเทวดาป่าที่ทำให้พายุพัดใบไม้มาคลุมตัวมันจนชาวบ้านมองไม่เห็น และตั้งแต่นั้นมาจิ้งจอกไม่เคยกลับไปที่หมู่บ้านอีกเลย.",
+    "target": {
+      "question": "ทำไมสุนัขจิ้งจอกถึงเปลี่ยนจากขนสีขาวเป็นสีน้ำตาล?",
+      "answer": "เพราะมันถูกชาวบ้านตามล่าเพราะขโมยไก่"
+    }
+  },
+  {
+    "Context": "เรื่องราวของสุนัขจิ้งจอกที่มีขนสีขาวแต่เดิม แต่เปลี่ยนเป็นสีน้ำตาลหลังจากที่มันถูกชาวบ้านตามล่าเพราะขโมยไก่. ชาวบ้านตัดสินใจรวมตัวกันตามล่าจิ้งจอก และเมื่อจิ้งจอกถูกล้อมจนหนทางหนีไม่มี มันได้รับความช่วยเหลือจากเทวดาป่าที่ทำให้พายุพัดใบไม้มาคลุมตัวมันจนชาวบ้านมองไม่เห็น และตั้งแต่นั้นมาจิ้งจอกไม่เคยกลับไปที่หมู่บ้านอีกเลย.",
+    "target": {
+      "question": "สุนัขจิ้งจอกได้รับความช่วยเหลือจากใครเมื่อถูกชาวบ้านล้อม?",
+      "answer": "เทวดาป่า"
+    }
+  },
+  {
+    "Context": "เรื่องราวของสุนัขจิ้งจอกที่มีขนสีขาวแต่เดิม แต่เปลี่ยนเป็นสีน้ำตาลหลังจากที่มันถูกชาวบ้านตามล่าเพราะขโมยไก่. ชาวบ้านตัดสินใจรวมตัวกันตามล่าจิ้งจอก และเมื่อจิ้งจอกถูกล้อมจนหนทางหนีไม่มี มันได้รับความช่วยเหลือจากเทวดาป่าที่ทำให้พายุพัดใบไม้มาคลุมตัวมันจนชาวบ้านมองไม่เห็น และตั้งแต่นั้นมาจิ้งจอกไม่เคยกลับไปที่หมู่บ้านอีกเลย.",
+    "target": {
+      "question": "จิ้งจอกตัดสินใจอย่างไรหลังจากเหตุการณ์นี้?",
+      "answer": "ไม่เคยกลับไปที่หมู่บ้านอีกเลย"
+    }
+  },
+  {
+    "Context": "เรื่องราวของสุนัขจิ้งจอกที่มีขนสีขาวแต่เดิม แต่เปลี่ยนเป็นสีน้ำตาลหลังจากที่มันถูกชาวบ้านตามล่าเพราะขโมยไก่. ชาวบ้านตัดสินใจรวมตัวกันตามล่าจิ้งจอก และเมื่อจิ้งจอกถูกล้อมจนหนทางหนีไม่มี มันได้รับความช่วยเหลือจากเทวดาป่าที่ทำให้พายุพัดใบไม้มาคลุมตัวมันจนชาวบ้านมองไม่เห็น และตั้งแต่นั้นมาจิ้งจอกไม่เคยกลับไปที่หมู่บ้านอีกเลย.",
+    "target": {
+      "question": "จิ้งจอกถูกชาวบ้านตามล่าเพราะเหตุใด?",
+      "answer": "เพราะขโมยไก่"
+    }
+  },
+  {
+    "Context": "แมลงหวี่ตัวน้อยอาศัยอยู่กับพ่อแม่อย่างมีความสุข และมักจะไปเยี่ยมเยียนดอกไม้และต้นไม้ทุกเช้า วันหนึ่งมันติดใยแมงมุมและขอร้องให้แมงมุมปล่อยมันไปเพื่อพ่อแม่ แมงมุมจึงปล่อยมันไป",
+    "target": {
+      "question": "แมลงหวี่ตัวน้อยขอร้องให้แมงมุมปล่อยมันไปด้วยเหตุผลใด?",
+      "answer": "เพื่อพ่อแม่ของมัน"
+    }
+  },
+  {
+    "Context": "แมงมุมถูกนกนางแอ่นจับได้และขอร้องให้ปล่อยมันไป นกนางแอ่นจึงปล่อยมันไปหลังจากได้ยินว่าแมงมุมเคยปล่อยแมลงหวี่",
+    "target": {
+      "question": "นกนางแอ่นตัดสินใจปล่อยแมงมุมไปเพราะเหตุใด?",
+      "answer": "เพราะแมงมุมเคยปล่อยแมลงหวี่"
+    }
+  },
+  {
+    "Context": "นกนางแอ่นถูกนกอินทรีจับได้และขอร้องให้ปล่อยมันไป นกอินทรีจึงปล่อยมันไปหลังจากได้ยินเรื่องราวของความเมตตา",
+    "target": {
+      "question": "นกอินทรีตัดสินใจปล่อยนกนางแอ่นไปเพราะเหตุใด?",
+      "answer": "เพราะได้ยินเรื่องราวของความเมตตา"
+    }
+  },
+  {
+    "Context": "เรื่องราวของความเมตตาและการปล่อยตัวกันและกันทำให้สัตว์ที่มีปีกทั้งหลายอยู่ร่วมกันอย่างกลมเกลียว",
+    "target": {
+      "question": "เหตุใดสัตว์ที่มีปีกจึงอยู่ร่วมกันอย่างกลมเกลียว?",
+      "answer": "เพราะเรื่องราวของความเมตตาและการปล่อยตัวกันและกัน"
+    }
+  },
+  {
+    "Context": "ในหมู่บ้านหนึ่งมีพ่อค้าขายของชำที่ไม่มีใครซื้อของเลย พ่อค้าตัดสินใจออกเดินทางไปแสวงโชคและทิ้งลูกสาวชื่อลูอิสไว้กับป้าที่เรียกว่ายายจู้จี้ ลูอิสได้รับจดหมายจากพ่อทุกวันซึ่งทำให้เธอมีความสุข แต่เมื่อจดหมายหยุดมา เฟลิกซ์บุรุษไปรษณีย์ตัดสินใจเขียนจดหมายแทนพ่อเพื่อให้ลูอิสมีความสุข",
+    "target": {
+      "question": "ทำไมบุรุษไปรษณีย์ถึงตัดสินใจเขียนจดหมายแทนพ่อของลูอิส?",
+      "answer": "เพราะเขาไม่อาจทนเห็นลูอิสร้องไห้ได้"
+    }
+  },
+  {
+    "Context": "ลูอิสอาศัยอยู่กับยายจู้จี้ที่ไม่เคยมีคำพูดอ่อนโยน วันที่เธอมีความสุขคือวันที่ได้รับจดหมายจากพ่อ แต่เมื่อจดหมายหยุดมา เธอตกอยู่ในความเศร้า",
+    "target": {
+      "question": "ลูอิสรู้สึกอย่างไรเมื่อจดหมายจากพ่อหยุดมา?",
+      "answer": "เธอตกอยู่ในความเศร้า"
+    }
+  },
+  {
+    "Context": "เมื่อพ่อของลูอิสกลับมา เขาบอกว่าไม่ได้เขียนจดหมายมานานเพราะเรือที่เขาขึ้นเกิดล่ม ลูอิสรู้สึกไม่มีความสุขแม้จะได้พบพ่อเพราะเธอยังคิดถึงจดหมายที่ได้รับ",
+    "target": {
+      "question": "ทำไมลูอิสยังรู้สึกไม่มีความสุขแม้พ่อกลับมา?",
+      "answer": "เพราะเธอยังคิดถึงจดหมายที่ได้รับในช่วงเวลาที่ผ่านมา"
+    }
+  },
+  {
+    "Context": "ลูอิสและเฟลิกซ์แต่งงานกันและมีชีวิตที่มีความสุข พวกเขาเขียนจดหมายรักถึงกันตลอดเวลา แสดงถึงความรักที่ลึกซึ้งระหว่างพวกเขา",
+    "target": {
+      "question": "ลูอิสและเฟลิกซ์แสดงความรักต่อกันอย่างไรหลังจากแต่งงาน?",
+      "answer": "พวกเขาเขียนจดหมายรักถึงกันตลอดเวลา"
+    }
+  },
+  {
+    "Context": "นกสาลิกาหนุ่มได้เห็นนกยูงที่สวนของพระราชาและรู้สึกอับอายกับขนที่ต่ำต้อยของตัวเอง จึงพยายามเลียนแบบนกยูงโดยเก็บขนนกยูงที่ร่วงหล่นและมัดเข้ากับหางของตัวเอง แต่สุดท้ายก็ถูกนกยูงจับได้และถูกตีจนขนหลุดออก",
+    "target": {
+      "question": "นกสาลิกาหนุ่มพยายามเลียนแบบนกยูงด้วยวิธีใด?",
+      "answer": "เก็บขนนกยูงที่ร่วงหล่นและมัดเข้ากับหางของตัวเอง"
+    }
+  },
+  {
+    "Context": "หลังจากถูกนกยูงจับได้และถูกตีจนขนหลุดออก นกสาลิกาหนุ่มกลับบ้านและได้รับการดูแลจากพ่อแม่ พวกเขาให้มันกินหนอนตัวอ้วนเนื้อฉ่ำและสอนวิธีซ่อนลูกโอ๊ก",
+    "target": {
+      "question": "นกสาลิกาหนุ่มได้รับการดูแลอย่างไรหลังจากถูกนกยูงจับได้?",
+      "answer": "ได้รับการดูแลจากพ่อแม่ พวกเขาให้มันกินหนอนตัวอ้วนเนื้อฉ่ำและสอนวิธีซ่อนลูกโอ๊ก"
+    }
+  },
+  {
+    "Context": "นกสาลิกาหนุ่มเริ่มมีความสุขกับการเป็นตัวของตัวเองหลังจากเรียนรู้ที่จะเลียนเสียงนกพันธุ์อื่นๆ และเลียนเสียงแมวกับแกะ ซึ่งเป็นพรสวรรค์อันยอดเยี่ยมที่นกสาลิกาทุกตัวมีติดตัว",
+    "target": {
+      "question": "นกสาลิกาหนุ่มมีความสุขกับอะไรหลังจากเรียนรู้ที่จะเลียนเสียงนกพันธุ์อื่นๆ?",
+      "answer": "มีความสุขกับการเป็นตัวของตัวเอง"
+    }
+  },
+  {
+    "Context": "นกสาลิกาหนุ่มได้เรียนรู้บทเรียนสำคัญจากการพยายามเลียนแบบนกยูงและถูกจับได้ นกสาลิกาหนุ่มได้เรียนรู้ที่จะเชื่อมั่นและเป็นตัวของตัวเอง",
+    "target": {
+      "question": "นกสาลิกาหนุ่มได้เรียนรู้บทเรียนอะไรจากการพยายามเลียนแบบนกยูง?",
+      "answer": "เรียนรู้ที่จะเชื่อมั่นและเป็นตัวของตัวเอง"
+    }
+  },
+  {
+    "Context": "ในวันเกิดของมาร์ติน เธอขอนาฬิกาจากคุณปู่ แต่คุณปู่ไม่ตอบและพาเธอไปเดินเล่น เธอเห็นผู้ชายที่ต้องคอยดูนาฬิกาและตำหนิคนขับรถที่มาช้า และผู้คนที่เครียดเพราะเวลา ในที่สุดเธอเห็นผู้ชายที่ไม่สวมนาฬิกาและดูมีความสุข มาร์ตินจึงตัดสินใจไม่ต้องการนาฬิกาอีกต่อไป",
+    "target": {
+      "question": "ทำไมมาร์ตินถึงเปลี่ยนใจไม่ต้องการนาฬิกาในที่สุด?",
+      "answer": "เพราะเธอเห็นผู้ชายที่ไม่สวมนาฬิกาและดูมีความสุข ทำให้เธอรู้สึกว่าไม่ต้องการนาฬิกาเพื่อมีความสุข"
+    }
+  },
+  {
+    "Context": "ในวันเกิดของมาร์ติน เธอขอนาฬิกาจากคุณปู่ แต่คุณปู่ไม่ตอบและพาเธอไปเดินเล่น เธอเห็นผู้ชายที่ต้องคอยดูนาฬิกาและตำหนิคนขับรถที่มาช้า และผู้คนที่เครียดเพราะเวลา ในที่สุดเธอเห็นผู้ชายที่ไม่สวมนาฬิกาและดูมีความสุข มาร์ตินจึงตัดสินใจไม่ต้องการนาฬิกาอีกต่อไป",
+    "target": {
+      "question": "คุณปู่พามาร์ตินไปเดินเล่นเพื่ออะไร?",
+      "answer": "เพื่อให้มาร์ตินเห็นผลกระทบของการต้องคอยดูเวลาและความเครียดที่มาจากมัน"
+    }
+  },
+  {
+    "Context": "ในวันเกิดของมาร์ติน เธอขอนาฬิกาจากคุณปู่ แต่คุณปู่ไม่ตอบและพาเธอไปเดินเล่น เธอเห็นผู้ชายที่ต้องคอยดูนาฬิกาและตำหนิคนขับรถที่มาช้า และผู้คนที่เครียดเพราะเวลา ในที่สุดเธอเห็นผู้ชายที่ไม่สวมนาฬิกาและดูมีความสุข มาร์ตินจึงตัดสินใจไม่ต้องการนาฬิกาอีกต่อไป",
+    "target": {
+      "question": "ผู้ชายที่มาร์ตินเห็นและไม่สวมนาฬิกามีลักษณะอย่างไร?",
+      "answer": "เขาดูมีความสุขและไม่เครียดเพราะไม่ต้องคอยดูเวลา"
+    }
+  },
+  {
+    "Context": "ในวันเกิดของมาร์ติน เธอขอนาฬิกาจากคุณปู่ แต่คุณปู่ไม่ตอบและพาเธอไปเดินเล่น เธอเห็นผู้ชายที่ต้องคอยดูนาฬิกาและตำหนิคนขับรถที่มาช้า และผู้คนที่เครียดเพราะเวลา ในที่สุดเธอเห็นผู้ชายที่ไม่สวมนาฬิกาและดูมีความสุข มาร์ตินจึงตัดสินใจไม่ต้องการนาฬิกาอีกต่อไป",
+    "target": {
+      "question": "คุณปู่ไม่ตอบอะไรเมื่อมาร์ตินขอนาฬิกา แต่ทำอะไรแทน?",
+      "answer": "คุณปู่จับมือมาร์ตินและพาเธอไปเดินเล่น"
+    }
+  },
+  {
+    "Context": "ในเรื่องการผจญภัยของลูกค้างคาว ลูกค้างคาวตัวน้อยตัดสินใจบินออกไปหาอาหารในตอนเช้าตรู่ แม้จะถูกพ่อห้ามไว้ เพราะค้างคาวไม่สามารถทนต่อแสงสว่างได้ มันบินไปจนเกือบสว่างและเริ่มมองไม่เห็นเพราะแสงสว่าง มันพยายามหาทางกลับบ้านแต่กลับเข้าไปในยุ้งข้าวที่ไม่ใช่บ้านของมัน สุดท้ายมันบินเข้าไปในห้องของชายชราและตัดสินใจอยู่ที่นั่นเพราะคนที่นี่ใจดี",
+    "target": {
+      "question": "ทำไมลูกค้างคาวตัวน้อยถึงตัดสินใจอยู่กับชายชรา?",
+      "answer": "เพราะคนที่นั่นใจดี"
+    }
+  },
+  {
+    "Context": "ในเรื่องการผจญภัยของลูกค้างคาว ลูกค้างคาวตัวน้อยตัดสินใจบินออกไปหาอาหารในตอนเช้าตรู่ แม้จะถูกพ่อห้ามไว้ เพราะค้างคาวไม่สามารถทนต่อแสงสว่างได้ มันบินไปจนเกือบสว่างและเริ่มมองไม่เห็นเพราะแสงสว่าง มันพยายามหาทางกลับบ้านแต่กลับเข้าไปในยุ้งข้าวที่ไม่ใช่บ้านของมัน สุดท้ายมันบินเข้าไปในห้องของชายชราและตัดสินใจอยู่ที่นั่นเพราะคนที่นี่ใจดี",
+    "target": {
+      "question": "ลูกค้างคาวตัวน้อยพยายามหาทางกลับบ้านอย่างไร?",
+      "answer": "มันพยายามเพ่งสายตาไปข้างหน้าเพื่อหาทางกลับบ้าน"
+    }
+  },
+  {
+    "Context": "ในเรื่องการผจญภัยของลูกค้างคาว ลูกค้างคาวตัวน้อยตัดสินใจบินออกไปหาอาหารในตอนเช้าตรู่ แม้จะถูกพ่อห้ามไว้ เพราะค้างคาวไม่สามารถทนต่อแสงสว่างได้ มันบินไปจนเกือบสว่างและเริ่มมองไม่เห็นเพราะแสงสว่าง มันพยายามหาทางกลับบ้านแต่กลับเข้าไปในยุ้งข้าวที่ไม่ใช่บ้านของมัน สุดท้ายมันบินเข้าไปในห้องของชายชราและตัดสินใจอยู่ที่นั่นเพราะคนที่นี่ใจดี",
+    "target": {
+      "question": "ลูกค้างคาวตัวน้อยตัดสินใจบินออกไปหาอาหารเมื่อใด?",
+      "answer": "ในตอนเช้าตรู่"
+    }
+  },
+  {
+    "Context": "ในเรื่องการผจญภัยของลูกค้างคาว ลูกค้างคาวตัวน้อยตัดสินใจบินออกไปหาอาหารในตอนเช้าตรู่ แม้จะถูกพ่อห้ามไว้ เพราะค้างคาวไม่สามารถทนต่อแสงสว่างได้ มันบินไปจนเกือบสว่างและเริ่มมองไม่เห็นเพราะแสงสว่าง มันพยายามหาทางกลับบ้านแต่กลับเข้าไปในยุ้งข้าวที่ไม่ใช่บ้านของมัน สุดท้ายมันบินเข้าไปในห้องของชายชราและตัดสินใจอยู่ที่นั่นเพราะคนที่นี่ใจดี",
+    "target": {
+      "question": "ทำไมลูกค้างคาวตัวน้อยถึงบินออกไปหาอาหารแม้จะถูกพ่อห้าม?",
+      "answer": "เพราะมันต้องการแสดงให้เห็นว่ามันไม่ใช่เด็กเล็กๆ อีกต่อไป"
+    }
+  },
+  {
+    "Context": "A little squirrel living in an oak tree on a small hill has to gather food for the upcoming winter. It especially loves hazelnuts but there are none on its hill, so it decides to travel to another hill to collect them. It finds a hazelnut tree and starts collecting the nuts, but encounters a dangerous owl. The squirrel manages to escape and continues to visit the hazelnut tree, using the daylight to stay safe from the nocturnal owl.",
+    "target": {
+      "question": "What does the squirrel primarily gather for the winter?",
+      "answer": "Hazelnuts"
+    }
+  },
+  {
+    "Context": "The squirrel, living in an oak tree, loves hazelnuts the most and travels to another hill to find them. It successfully finds a hazelnut tree and collects the nuts, despite the presence of a dangerous owl. The squirrel uses the daylight to its advantage, knowing the owl struggles with bright light.",
+    "target": {
+      "question": "Why does the squirrel choose to collect hazelnuts during the day?",
+      "answer": "Because the owl struggles with bright light and is less of a threat."
+    }
+  },
+  {
+    "Context": "The squirrel finds a hazelnut tree on another hill and begins collecting nuts. It encounters an owl, which poses a threat. However, the squirrel manages to escape by being cautious and using the daylight, as the owl is nocturnal and has poor vision in bright light.",
+    "target": {
+      "question": "What strategy does the squirrel use to avoid the owl?",
+      "answer": "The squirrel collects hazelnuts during the day when the owl's vision is impaired by bright light."
+    }
+  },
+  {
+    "Context": "After finding a hazelnut tree on another hill, the squirrel collects nuts and narrowly escapes an owl. It continues to visit the tree, exploiting the owl's poor daytime vision. Eventually, the owl realizes the squirrel won't return as the tree has only leaves left.",
+    "target": {
+      "question": "What realization does the owl come to at the end of the story?",
+      "answer": "The owl realizes that the squirrel will not return as the hazelnut tree only has leaves left."
+    }
+  },
+  {
+    "Context": "ในหุบเขาของกรุงเอเธนส์มีไร่ที่มีหนูอาศัยอยู่มากมาย หนูเหล่านี้มีความสุขจนกระทั่งเจ้าของไร่ซื้อแมวมา แมวตัวนี้ล่าหนูอย่างไม่หยุดหย่อน หนูจึงประชุมกันเพื่อหาทางรับมือ หนูขาวสามตัวเสนอให้ใช้กระดิ่งผูกคอแมวเพื่อเตือนหนูเมื่อแมวเคลื่อนไหว แต่ไม่มีหนูตัวไหนกล้าทำ",
+    "target": {
+      "question": "ทำไมหนูตัวอื่นๆ ไม่กล้าผูกกระดิ่งคอแมว?",
+      "answer": "เพราะพวกมันกลัวว่าจะถูกแมวจับได้ก่อนที่จะทันผูกกระดิ่ง"
+    }
+  },
+  {
+    "Context": "หนูในไร่เอเธนส์ต้องเผชิญกับแมวที่ล่าพวกมันอย่างต่อเนื่อง หนูขาวสามตัวเสนอแผนใช้กระดิ่งผูกคอแมวเพื่อเตือนหนูเมื่อแมวเคลื่อนไหว แต่ไม่มีหนูตัวไหนกล้าทำ",
+    "target": {
+      "question": "แผนการใช้กระดิ่งผูกคอแมวมีจุดประสงค์อะไร?",
+      "answer": "เพื่อเตือนหนูเมื่อแมวเคลื่อนไหว"
+    }
+  },
+  {
+    "Context": "หนูในไร่เอเธนส์ต้องเผชิญกับแมวที่ล่าพวกมันอย่างต่อเนื่อง หนูขาวสามตัวเสนอแผนใช้กระดิ่งผูกคอแมวเพื่อเตือนหนูเมื่อแมวเคลื่อนไหว แต่ไม่มีหนูตัวไหนกล้าทำ",
+    "target": {
+      "question": "หนูขาวเสนอแผนอะไรเพื่อรับมือกับแมว?",
+      "answer": "เสนอให้ใช้กระดิ่งผูกคอแมว"
+    }
+  },
+  {
+    "Context": "หนูในไร่เอเธนส์ต้องเผชิญกับแมวที่ล่าพวกมันอย่างต่อเนื่อง หนูขาวสามตัวเสนอแผนใช้กระดิ่งผูกคอแมวเพื่อเตือนหนูเมื่อแมวเคลื่อนไหว แต่ไม่มีหนูตัวไหนกล้าทำ",
+    "target": {
+      "question": "เหตุใดหนูไม่มีใครกล้าผูกกระดิ่งคอแมว?",
+      "answer": "เพราะพวกมันกลัวว่าจะถูกแมวจับได้ก่อนที่จะทันผูกกระดิ่ง"
+    }
+  },
+  {
+    "Context": "หมาจิ้งจอกจอมเจ้าเล่ห์ในป่าใกล้ทะเลสาบพยายามหลอกนกกระสาที่เพิ่งมาถึงเพื่อให้มารับประทานอาหารเย็นที่บ้านของมัน โดยใช้จานก้นแบนที่ทำให้นกกระสากินไม่ได้ แต่นกกระสาก็หาทางเอาคืนด้วยการเชิญหมาจิ้งจอกมากินอาหารกลางวันและใช้ไหทรงสูงที่หมาจิ้งจอกกินไม่ถึง",
+    "target": {
+      "question": "หมาจิ้งจอกใช้วิธีใดในการหลอกนกกระสาให้มารับประทานอาหารที่บ้านของมัน?",
+      "answer": "ใช้จานก้นแบนที่ทำให้นกกระสากินไม่ได้"
+    }
+  },
+  {
+    "Context": "หมาจิ้งจอกจอมเจ้าเล่ห์ในป่าใกล้ทะเลสาบพยายามหลอกนกกระสาที่เพิ่งมาถึงเพื่อให้มารับประทานอาหารเย็นที่บ้านของมัน โดยใช้จานก้นแบนที่ทำให้นกกระสากินไม่ได้ แต่นกกระสาก็หาทางเอาคืนด้วยการเชิญหมาจิ้งจอกมากินอาหารกลางวันและใช้ไหทรงสูงที่หมาจิ้งจอกกินไม่ถึง",
+    "target": {
+      "question": "นกกระสาใช้วิธีใดเพื่อเอาคืนหมาจิ้งจอก?",
+      "answer": "ใช้ไหทรงสูงที่หมาจิ้งจอกกินไม่ถึง"
+    }
+  },
+  {
+    "Context": "หมาจิ้งจอกจอมเจ้าเล่ห์ในป่าใกล้ทะเลสาบพยายามหลอกนกกระสาที่เพิ่งมาถึงเพื่อให้มารับประทานอาหารเย็นที่บ้านของมัน โดยใช้จานก้นแบนที่ทำให้นกกระสากินไม่ได้ แต่นกกระสาก็หาทางเอาคืนด้วยการเชิญหมาจิ้งจอกมากินอาหารกลางวันและใช้ไหทรงสูงที่หมาจิ้งจอกกินไม่ถึง",
+    "target": {
+      "question": "หมาจิ้งจอกและนกกระสาใช้วิธีใดในการต้อนรับผู้มาใหม่?",
+      "answer": "หมาจิ้งจอกใช้จานก้นแบนและนกกระสาใช้ไหทรงสูง"
+    }
+  },
+  {
+    "Context": "หมาจิ้งจอกจอมเจ้าเล่ห์ในป่าใกล้ทะเลสาบพยายามหลอกนกกระสาที่เพิ่งมาถึงเพื่อให้มารับประทานอาหารเย็นที่บ้านของมัน โดยใช้จานก้นแบนที่ทำให้นกกระสากินไม่ได้ แต่นกกระสาก็หาทางเอาคืนด้วยการเชิญหมาจิ้งจอกมากินอาหารกลางวันและใช้ไหทรงสูงที่หมาจิ้งจอกกินไม่ถึง",
+    "target": {
+      "question": "นิทานเรื่องนี้สอนให้เราเรียนรู้อะไร?",
+      "answer": "อย่าคิดว่าผู้อื่นจะด้อยกว่าตนเองเสมอไป"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่อง 'กบเลือกนาย' กบที่อาศัยอยู่ใกล้ภูเขาโอลิมปัสได้ยินจากนกนางแอ่นว่าสัตว์ทุกชนิดมีพระราชา จึงตัดสินใจทูลขอพระราชาจากเทพซีอุส แต่พวกมันได้รับซุงเป็นพระราชา และต่อมาได้รับนกกระสาที่กินกบเป็นอาหาร สุดท้ายพวกมันตระหนักว่าชีวิตเดิมที่ไม่มีผู้นำดีกว่า",
+    "target": {
+      "question": "ทำไมกบถึงตัดสินใจทูลขอพระราชาจากเทพซีอุส?",
+      "answer": "เพราะได้ยินจากนกนางแอ่นว่าสัตว์ทุกชนิดมีพระราชา"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่อง 'กบเลือกนาย' หลังจากที่กบได้รับซุงเป็นพระราชาและตระหนักว่ามันเป็นเพียงไม้ท่อนหนึ่ง พวกมันจึงทูลขอพระราชาอีกครั้งและได้รับนกกระสาที่กินกบเป็นอาหาร",
+    "target": {
+      "question": "กบได้รับอะไรเป็นพระราชาครั้งแรกหลังจากทูลขอจากเทพซีอุส?",
+      "answer": "ซุง"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่อง 'กบเลือกนาย' หลังจากที่กบได้รับซุงเป็นพระราชาและตระหนักว่ามันเป็นเพียงไม้ท่อนหนึ่ง พวกมันจึงทูลขอพระราชาอีกครั้งและได้รับนกกระสาที่กินกบเป็นอาหาร",
+    "target": {
+      "question": "กบได้รับอะไรเป็นพระราชาครั้งที่สองหลังจากทูลขอจากเทพซีอุส?",
+      "answer": "นกกระสา"
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่อง 'กบเลือกนาย' หลังจากที่กบได้รับนกกระสาเป็นพระราชา พวกมันตระหนักว่าชีวิตเดิมที่ไม่มีผู้นำดีกว่า",
+    "target": {
+      "question": "กบตระหนักอะไรหลังจากได้รับนกกระสาเป็นพระราชา?",
+      "answer": "ชีวิตเดิมที่ไม่มีผู้นำดีกว่า"
+    }
+  },
+  {
+    "Context": "The bees, unable to defend themselves, were constantly robbed of their honey by humans. Desperate, the Queen Bee led her swarm to seek help from Zeus, who granted them stingers as a defense mechanism. However, the bees misused their power, attacking indiscriminately. Zeus, upon learning this, limited their ability to sting to just once, after which they would die.",
+    "target": {
+      "question": "Why did the Queen Bee seek help from Zeus?",
+      "answer": "The Queen Bee sought help from Zeus because the bees were unable to defend themselves and were constantly robbed of their honey by humans."
+    }
+  },
+  {
+    "Context": "Zeus granted the bees stingers to defend themselves, but they misused this power by attacking people indiscriminately. This led Zeus to modify their ability, allowing them to sting only once, after which they would die.",
+    "target": {
+      "question": "What change did Zeus make to the bees' stinging ability?",
+      "answer": "Zeus changed the bees' stinging ability to allow them to sting only once, after which they would die."
+    }
+  },
+  {
+    "Context": "Initially, the bees were defenseless and could not protect their honey from being stolen by humans. After receiving stingers from Zeus, they began to misuse their new power, leading to further intervention from Zeus.",
+    "target": {
+      "question": "What was the bees' condition before Zeus intervened?",
+      "answer": "Before Zeus intervened, the bees were defenseless and unable to protect their honey from being stolen by humans."
+    }
+  },
+  {
+    "Context": "After the bees received stingers from Zeus, they misused their power, leading Zeus to restrict their stinging to only once, resulting in their death upon using it. This was to prevent misuse and encourage careful consideration before stinging.",
+    "target": {
+      "question": "What was the consequence for a bee after it used its stinger, as imposed by Zeus?",
+      "answer": "The consequence for a bee after using its stinger, as imposed by Zeus, was that it would die."
+    }
+  },
+  {
+    "Context": "ในนิทานเรื่องนี้ เต่าตัวหนึ่งมีความฝันที่จะบินได้เหมือนนก แม้ว่าเพื่อนๆของมันจะบอกว่าเต่าบินไม่ได้ เต่าก็ไม่ยอมฟังและพยายามที่จะบิน มันได้รับความช่วยเหลือจากนกอินทรีที่พามันขึ้นไปบนฟ้า แต่สุดท้ายเต่าก็ตกลงมาและรู้ว่ามันไม่สามารถบินได้จริงๆ",
+    "target": {
+      "question": "เต่าในนิทานเรื่องนี้พยายามทำอะไร?",
+      "answer": "เต่าพยายามที่จะบินได้เหมือนนก"
+    }
+  },
+  {
+    "Context": "เต่าในนิทานเรื่องนี้ได้รับความช่วยเหลือจากนกอินทรีที่พามันขึ้นไปบนฟ้า แต่เมื่อถึงเวลาที่จะต้องบินด้วยตัวเอง เต่าก็ไม่สามารถบินได้และตกลงมา",
+    "target": {
+      "question": "ใครช่วยเต่าพยายามบินในนิทานเรื่องนี้?",
+      "answer": "นกอินทรี"
+    }
+  },
+  {
+    "Context": "หลังจากที่เต่าพยายามบินและตกลงมา เต่าก็ตระหนักว่ามันไม่สามารถบินได้จริงๆ และยอมรับว่ามันชอบเดินมากกว่า",
+    "target": {
+      "question": "เต่ารู้สึกอย่างไรหลังจากที่พยายามบินและล้มเหลว?",
+      "answer": "เต่าตระหนักว่ามันไม่สามารถบินได้จริงๆ และยอมรับว่ามันชอบเดินมากกว่า"
+    }
+  },
+  {
+    "Context": "เต่าในนิทานเรื่องนี้ไม่ยอมฟังคำเตือนจากเพื่อนๆ และพยายามที่จะบิน แม้จะล้มเหลว แต่เต่าก็ได้เรียนรู้บทเรียนสำคัญ",
+    "target": {
+      "question": "บทเรียนที่เต่าได้เรียนรู้จากการพยายามบินคืออะไร?",
+      "answer": "เต่าได้เรียนรู้ว่ามันไม่สามารถบินได้และควรยอมรับข้อจำกัดของตัวเอง"
+    }
+  },
+  {
+    "Context": "ณ ริมฝั่งแม่น้ำ ต้นอ้อผู้บอบบางกำลังเต้นระบำในสายลมอ่อนๆ และถูกต้นมะกอกล้อเลียนว่าอ่อนแอเพราะโอนเอนไปมากับลม. ต้นมะกอกแข็งแกร่งแต่ไม่ยอมโค้งตัวต่อลมแรงและสุดท้ายกิ่งของมันหัก. ต้นอ้อยังคงยืนอยู่ที่เดิมและเต้นระบำอย่างร่าเริงหลังพายุ.",
+    "target": {
+      "question": "ทำไมต้นมะกอกถึงล้อเลียนต้นอ้อ?",
+      "answer": "เพราะต้นอ้อโอนเอนไปมากับลมอ่อนๆ และดูอ่อนแอ."
+    }
+  },
+  {
+    "Context": "ณ ริมฝั่งแม่น้ำ ต้นอ้อผู้บอบบางกำลังเต้นระบำในสายลมอ่อนๆ และถูกต้นมะกอกล้อเลียนว่าอ่อนแอเพราะโอนเอนไปมากับลม. ต้นมะกอกแข็งแกร่งแต่ไม่ยอมโค้งตัวต่อลมแรงและสุดท้ายกิ่งของมันหัก. ต้นอ้อยังคงยืนอยู่ที่เดิมและเต้นระบำอย่างร่าเริงหลังพายุ.",
+    "target": {
+      "question": "ต้นอ้อมีปฏิกิริยาอย่างไรเมื่อถูกต้นมะกอกล้อเลียน?",
+      "answer": "ต้นอ้อไม่ได้โต้ตอบ แต่แค่เต้นระบำต่อไป."
+    }
+  },
+  {
+    "Context": "ณ ริมฝั่งแม่น้ำ ต้นอ้อผู้บอบบางกำลังเต้นระบำในสายลมอ่อนๆ และถูกต้นมะกอกล้อเลียนว่าอ่อนแอเพราะโอนเอนไปมากับลม. ต้นมะกอกแข็งแกร่งแต่ไม่ยอมโค้งตัวต่อลมแรงและสุดท้ายกิ่งของมันหัก. ต้นอ้อยังคงยืนอยู่ที่เดิมและเต้นระบำอย่างร่าเริงหลังพายุ.",
+    "target": {
+      "question": "ผลลัพธ์ของการไม่ยอมโค้งตัวต่อลมแรงสำหรับต้นมะกอกคืออะไร?",
+      "answer": "กิ่งของต้นมะกอกหัก."
+    }
+  },
+  {
+    "Context": "ณ ริมฝั่งแม่น้ำ ต้นอ้อผู้บอบบางกำลังเต้นระบำในสายลมอ่อนๆ และถูกต้นมะกอกล้อเลียนว่าอ่อนแอเพราะโอนเอนไปมากับลม. ต้นมะกอกแข็งแกร่งแต่ไม่ยอมโค้งตัวต่อลมแรงและสุดท้ายกิ่งของมันหัก. ต้นอ้อยังคงยืนอยู่ที่เดิมและเต้นระบำอย่างร่าเริงหลังพายุ.",
+    "target": {
+      "question": "ต้นอ้อยังคงอยู่ที่เดิมหลังพายุได้อย่างไร?",
+      "answer": "เพราะมันโอนอ่อนตามแรงลม."
+    }
+  },
+  {
+    "Context": "คนตัดไม้ทำขวานหล่นลงแม่น้ำและร้องไห้เพราะกังวลว่าจะไม่มีเงินซื้ออาหารให้ครอบครัว จากนั้นเทพเจ้าเฮอร์มีสปรากฏตัวและนำขวานทองคำและขวานเงินขึ้นมา แต่คนตัดไม้ปฏิเสธว่าไม่ใช่ของเขา สุดท้ายเทพเจ้าเฮอร์มีสก็นำขวานเหล็กของเขาขึ้นมาและให้ขวานทองคำและขวานเงินเป็นรางวัลความซื่อสัตย์",
+    "target": {
+      "question": "เทพเจ้าเฮอร์มีสให้รางวัลอะไรกับคนตัดไม้ที่ซื่อสัตย์?",
+      "answer": "ขวานทองคำและขวานเงิน"
+    }
+  },
+  {
+    "Context": "คนตัดไม้คนอื่นพยายามลองโชคโดยโยนขวานลงแม่น้ำและร้องไห้เพื่อให้เทพเจ้าเฮอร์มีสปรากฏตัว เทพเจ้าเฮอร์มีสปรากฏตัวและนำขวานทองคำขึ้นมา แต่เมื่อคนตัดไม้คนนั้นอ้างว่าเป็นของเขา เทพเจ้าเฮอร์มีสตำหนิเขาว่าโลภและไม่ให้ขวานใดๆ กับเขา",
+    "target": {
+      "question": "เทพเจ้าเฮอร์มีสตอบสนองอย่างไรเมื่อคนตัดไม้คนอื่นอ้างว่าขวานทองคำเป็นของเขา?",
+      "answer": "ตำหนิเขาว่าโลภและไม่ให้ขวานใดๆ กับเขา"
+    }
+  },
+  {
+    "Context": "เมื่อคนตัดไม้ทำขวานหล่นลงแม่น้ำ เทพเจ้าเฮอร์มีสปรากฏตัวและนำขวานทองคำและขวานเงินขึ้นมา แต่คนตัดไม้ปฏิเสธว่าไม่ใช่ของเขา สุดท้ายเทพเจ้าเฮอร์มีสก็นำขวานเหล็กของเขาขึ้นมา",
+    "target": {
+      "question": "ขวานไหนที่คนตัดไม้ยอมรับว่าเป็นของเขา?",
+      "answer": "ขวานเหล็ก"
+    }
+  },
+  {
+    "Context": "คนตัดไม้ทำขวานหล่นลงแม่น้ำและร้องไห้เพราะกังวลว่าจะไม่มีเงินซื้ออาหารให้ครอบครัว เทพเจ้าเฮอร์มีสปรากฏตัวและนำขวานทองคำและขวานเงินขึ้นมา แต่คนตัดไม้ปฏิเสธว่าไม่ใช่ของเขา สุดท้ายเทพเจ้าเฮอร์มีสก็นำขวานเหล็กของเขาขึ้นมาและให้ขวานทองคำและขวานเงินเป็นรางวัลความซื่อสัตย์",
+    "target": {
+      "question": "เหตุการณ์อะไรทำให้คนตัดไม้ร้องไห้?",
+      "answer": "ทำขวานหล่นลงแม่น้ำ"
+    }
+  },
+  {
+    "Context": "In a once peaceful forest, a group of people marked trees with red signs, indicating they were selected for logging. The oldest chestnut tree explained that these marked trees would be taken to a sawmill. A young pine tree, marked as well, expressed its fear and desire to stay in the forest. However, the chestnut tree reassured it, saying new adventures awaited. Eventually, the trees were taken to the sawmill where the pine tree transformed into paper, ultimately becoming a school notebook for a young boy.",
+    "target": {
+      "question": "What did the red signs on the trees signify?",
+      "answer": "The red signs indicated that the trees were selected for logging."
+    }
+  },
+  {
+    "Context": "In a once peaceful forest, a group of people marked trees with red signs, indicating they were selected for logging. The oldest chestnut tree explained that these marked trees would be taken to a sawmill. A young pine tree, marked as well, expressed its fear and desire to stay in the forest. However, the chestnut tree reassured it, saying new adventures awaited. Eventually, the trees were taken to the sawmill where the pine tree transformed into paper, ultimately becoming a school notebook for a young boy.",
+    "target": {
+      "question": "What did the young pine tree become after being processed at the sawmill?",
+      "answer": "The young pine tree became paper."
+    }
+  },
+  {
+    "Context": "In a once peaceful forest, a group of people marked trees with red signs, indicating they were selected for logging. The oldest chestnut tree explained that these marked trees would be taken to a sawmill. A young pine tree, marked as well, expressed its fear and desire to stay in the forest. However, the chestnut tree reassured it, saying new adventures awaited. Eventually, the trees were taken to the sawmill where the pine tree transformed into paper, ultimately becoming a school notebook for a young boy.",
+    "target": {
+      "question": "What reassurance did the oldest chestnut tree give to the young pine tree?",
+      "answer": "The chestnut tree reassured the young pine tree that new adventures awaited them."
+    }
+  },
+  {
+    "Context": "In a once peaceful forest, a group of people marked trees with red signs, indicating they were selected for logging. The oldest chestnut tree explained that these marked trees would be taken to a sawmill. A young pine tree, marked as well, expressed its fear and desire to stay in the forest. However, the chestnut tree reassured it, saying new adventures awaited. Eventually, the trees were taken to the sawmill where the pine tree transformed into paper, ultimately becoming a school notebook for a young boy.",
+    "target": {
+      "question": "What final product did the young pine tree become?",
+      "answer": "The young pine tree became a school notebook."
+    }
+  }
+]

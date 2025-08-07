@@ -20,7 +20,7 @@ if __name__ == '__main__':
         sys.exit()
 
     stories = data_preparation.load_stories_from_folder(stories_folder)
-    createDataSetFromQuiz.createDataSet(stories[:2])
+    createDataSetFromQuiz.createDataSet(stories[0:1])
     
     if stories:
         # dataset = data_preparation.get_qa_dataset()
